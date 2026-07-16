@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.971,
-  "collected_at": "2026-07-16T10:57:48+09:00",
+  "elapsed_seconds": 2.48,
+  "collected_at": "2026-07-16T11:32:35+09:00",
   "content_length": 495438,
-  "raw_sha256": "20f632bfedcb241ae0e516f7bb475272d2b56df52f486cf6a2973b084b8f8295",
+  "raw_sha256": "884381202e3afe9f32c5d4da3a90e6572c3eabbe9ddac0a505b72fdf9fe0c447",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "예금자보호제도",
   "page_title_manifest": "예금자보호제도",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/예금자보호제도/DP-002.html"
 }

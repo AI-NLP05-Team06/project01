@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.869,
-  "collected_at": "2026-07-16T10:59:46+09:00",
+  "elapsed_seconds": 2.886,
+  "collected_at": "2026-07-16T11:35:37+09:00",
   "content_length": 506231,
-  "raw_sha256": "c6c6e3dac87f2db33a33435b487d327163220111a295d82439fec6c0ec5a6fe4",
+  "raw_sha256": "63cd6a625c3ee829c0fb982a8a3f23a9908da341a788e99de1c7961ae44eeb65",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "채무조정 안내",
   "page_title_manifest": "채무조정 재기지원 > 파산면책",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/채무조정 안내/DA-005.html"
 }

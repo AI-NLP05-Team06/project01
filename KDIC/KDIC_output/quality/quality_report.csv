@@ -1,7 +1,7 @@
 ﻿url_id,parent_doc_id,record_type,business_function,title,indexable,rag_index_mode,quality_status,quality_reasons,content_chars,chunk_count,chunk_coverage_ratio,faq_count,faq_chunk_count,table_count,action_count,attachment_count,video_count,supplementary_link_count,pagination_detected,pagination_is_complete,pagination_page_count,processing_policy,needs_review
-DP-001,DP-001,page,예금자보호제도,보호한도,True,full,pass,,1118,1,1.0,0,0,0,0,0,0,0,False,True,1,,False
+DP-001,DP-001,page,예금자보호제도,보호한도,True,full,pass,,1119,1,1.0,0,0,0,0,0,0,0,False,True,1,,False
 DP-002,DP-002,page,예금자보호제도,예금자보호제도,True,full,pass,,740,4,1.0,0,0,0,0,0,0,0,False,True,1,,False
-DP-003,DP-003,page,예금자보호제도,보호대상 > 금융회사 > 개요,True,full,pass,,1077,3,1.0,0,0,1,2,3,0,0,False,True,1,,False
+DP-003,DP-003,page,예금자보호제도,보호대상 > 금융회사 > 개요,True,full,pass,,1077,3,1.0,0,0,1,2,2,0,0,False,True,1,,False
 DP-004,DP-004,page,예금자보호제도,보호대상 > 금융상품 > 개요,True,full,pass,,2536,4,1.0,0,0,1,0,0,0,0,False,True,1,,False
 DP-005,DP-005,page,예금자보호제도,"고객센터 > FAQ > 미수령금통합신청(사이트 분류상 명칭, 실제 내용은 예금보호)",True,full,pass,,12633,38,1.0,38,38,0,0,0,0,0,True,True,4,,False
 DP-006,DP-006,page,예금자보호제도,예금자보호제도 FAQ,True,full,pass,,3983,17,1.0,17,17,0,0,0,0,0,False,True,1,,False
@@ -10,18 +10,18 @@ BI-001,BI-001,page,예금보험금 안내,예금보험금 안내 > 신청시 구
 BI-002,BI-002,page,예금보험금 안내,예금보험금 신청 절차 > 예금보험금 신청절차,True,full,pass,,1194,1,1.0,0,0,0,1,0,0,0,False,True,1,,False
 BI-003,BI-003,page,예금보험금 안내,예금보험금이란?,True,full,pass,,2358,4,1.0,0,0,0,1,0,0,0,False,True,1,,False
 BI-004,BI-004,page,예금보험금 안내,예금보험금 안내 > 보험금 지급대상 금융회사,True,full,pass,,2568,3,1.0,0,0,1,1,0,0,0,True,True,5,,False
-UN-001,UN-001,page,고객 미수령금 신청,미수령금 통합조회/신청 > 고객미수령금,True,full,pass,,660,3,1.0,0,0,0,3,0,0,0,False,True,1,,False
+UN-001,UN-001,page,고객 미수령금 신청,미수령금 통합조회/신청 > 고객미수령금,True,full,pass,,660,3,1.0,0,0,0,4,0,0,0,False,True,1,,False
 UN-002,UN-002,page,고객 미수령금 신청,미수령금통합신청 > 소개와 신청방법 안내 > 예금자 대상 전화문의 안내,True,full,pass,,579,1,1.0,0,0,0,0,0,0,0,False,True,1,,False
 UN-003,UN-003,page,고객 미수령금 신청,미수령금통합신청 > 소개와 신청방법 안내 > 안내,True,full,pass,,978,3,1.0,0,0,0,2,0,0,0,False,True,1,,False
 UN-004,UN-004,page,고객 미수령금 신청,미수령금 통합조회/신청 > 상속인 금융거래조회,True,full,pass,,1213,3,1.0,0,0,0,1,0,0,0,False,True,1,,False
-MT-001,MT-001,page,착오송금 반환 신청,착오송금 반환지원제도 > 착오송금반환지원 제도란,True,full,pass,,86,1,1.0,0,0,0,0,0,1,1,False,True,1,,False
+MT-001,MT-001,page,착오송금 반환 신청,착오송금 반환지원제도 > 착오송금반환지원 제도란,True,full,pass,,84,1,1.0,0,0,0,0,0,1,1,False,True,1,,False
 MT-002,MT-002,page,착오송금 반환 신청,착오송금 반환지원제도 > 착오송금반환지원 절차,True,full,pass,,601,1,1.0,0,0,0,0,0,0,0,False,True,1,,False
 MT-003,MT-003,page,착오송금 반환 신청,착오송금 반환지원제도 > 착오송금반환지원 신청방법,True,full,pass,,250,1,1.0,0,0,0,2,0,0,0,False,True,1,,False
 MT-004,MT-004,page,착오송금 반환 신청,고객센터 > FAQ > 착오송금반환지원신청,True,full,pass,,2232,12,1.0,12,12,0,0,0,0,0,True,True,2,,False
 MT-005,MT-005,page,착오송금 반환 신청,고객센터 > FAQ > TOP 10,True,full,pass,,1764,10,1.0,10,10,0,0,0,0,0,False,True,1,,False
 MT-006,MT-006,page,착오송금 반환 신청,착오송금반환지원 > 착오송금수취인 > 유의사항,True,full,pass,,688,1,1.0,0,0,0,1,0,0,0,False,True,1,,False
-MT-007,MT-007,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금수취인,True,full,pass,,564,2,1.0,0,0,1,4,4,0,0,False,True,1,,False
-MT-008,MT-008,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금인,True,full,pass,,3702,7,1.0,0,0,5,20,20,0,0,False,True,1,,False
+MT-007,MT-007,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금수취인,True,full,pass,,551,2,1.0,0,0,1,4,4,0,0,False,True,1,,False
+MT-008,MT-008,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금인,True,full,pass,,3689,7,1.0,0,0,5,20,20,0,0,False,True,1,,False
 MT-009,MT-009,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 반환지원절차,True,filtered,pass,,2017,2,1.0,0,0,0,0,0,0,1,False,True,1,,False
 MT-010,MT-010,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정,True,full,pass,,310,1,1.0,0,0,0,2,0,0,0,False,True,1,,False
 MT-011,MT-011,page,착오송금 반환 신청,착오송금반환지원 > 소개와 방법안내 > 상황선택,True,public_only,pass,,125,1,1.0,0,0,0,3,0,0,0,False,True,1,,False
@@ -35,9 +35,9 @@ DA-003,DA-003,page,채무조정 안내,채무조정,True,full,pass,,1672,8,1.0,0
 DA-004,DA-004,page,채무조정 안내,채무조정 재기지원 > 신용회복 지원,True,full,pass,,2307,8,1.0,0,0,1,0,0,0,0,False,True,1,,False
 DA-005,DA-005,page,채무조정 안내,채무조정 재기지원 > 파산면책,True,full,pass,,2988,12,1.0,0,0,0,0,0,0,0,False,True,1,,False
 DA-006,DA-006,page,채무조정 안내,채무조정 재기지원 > 개인회생,True,full,pass,,1848,5,1.0,0,0,3,0,0,0,0,False,True,1,,False
-DA-007,DA-007,page,채무조정 안내,지원자금관리 > 부채증명원/금융거래정보신청,True,public_only,pass,,1019,4,1.0,0,0,1,4,5,0,0,False,True,1,,False
+DA-007,DA-007,page,채무조정 안내,지원자금관리 > 부채증명원/금융거래정보신청,True,public_only,pass,,1019,4,1.0,0,0,1,4,3,0,0,False,True,1,,False
 DA-008,DA-008,page,채무조정 안내,고객센터 > FAQ > 채무정보조회,True,full,pass,,1022,7,1.0,7,7,0,0,0,0,0,False,True,1,,False
-HP-001,HP-001,page,은닉재산 신고,지원자금관리 > 부실책임조사 > 금융부실관련자 은닉재산신고 > 신고센터,True,full,pass,,1952,9,1.0,0,0,3,2,0,0,0,False,True,1,,False
+HP-001,HP-001,page,은닉재산 신고,지원자금관리 > 부실책임조사 > 금융부실관련자 은닉재산신고 > 신고센터,True,full,pass,,1763,7,1.0,0,0,2,2,0,0,0,False,True,1,,False
 HP-002,HP-002,page,은닉재산 신고,고객센터 > FAQ > 은닉재산신고,True,full,pass,,2655,12,1.0,12,12,0,0,0,0,0,True,True,2,,False
 HP-003,HP-003,page,은닉재산 신고,지원자금관리 > 부실책임조사 > 금융부실관련자 불법행위신고 > 신고센터 소개,True,separate_domain,pass,,329,2,1.0,0,0,0,2,2,0,0,False,True,1,,False
 HP-004,HP-004,link_only,은닉재산 신고,부실책임조사 진행현황 조회 (개인정보 수집이용 동의),False,none,pass,,0,0,1.0,0,0,0,1,0,0,0,False,True,1,,False

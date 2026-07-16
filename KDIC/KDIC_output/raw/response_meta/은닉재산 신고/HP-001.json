@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.962,
-  "collected_at": "2026-07-16T10:59:58+09:00",
+  "elapsed_seconds": 2.95,
+  "collected_at": "2026-07-16T11:35:58+09:00",
   "content_length": 513163,
-  "raw_sha256": "2a8b2f570f961c050190e5f4be1f4137fe97c35856ec9eba234b9a32de7d912a",
+  "raw_sha256": "455e0808fe1b93ebb42537b208432fe77e9919a15e378482873b1fbd91f035cf",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "은닉재산 신고",
   "page_title_manifest": "지원자금관리 > 부실책임조사 > 금융부실관련자 은닉재산신고 > 신고센터",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/은닉재산 신고/HP-001.html"
 }

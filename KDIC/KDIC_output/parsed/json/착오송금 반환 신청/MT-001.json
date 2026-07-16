@@ -6,6 +6,8 @@
   "rag_index_mode": "full",
   "title": "착오송금 반환지원제도 > 착오송금반환지원 제도란",
   "manifest_title": "착오송금 반환지원제도 > 착오송금반환지원 제도란",
+  "page_heading": "잘못 보낸 돈 되찾기 서비스 (착오송금반환지원 제도)",
+  "display_title": "잘못 보낸 돈 되찾기 서비스 (착오송금반환지원 제도)",
   "html_title": "제도·정책 착오송금 반환지원제도 착오송금반환지원 제도란",
   "source_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
   "final_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
@@ -13,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "video_page",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 제도란"
@@ -25,21 +27,12 @@
       "text": "제도 소개 안내영상"
     },
     {
-      "type": "paragraph",
-      "text": "."
-    },
-    {
       "type": "heading",
       "level": 3,
       "text": "잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다."
     }
   ],
-  "links": [
-    {
-      "url": "http://www.kdic30th.kr",
-      "anchor_text": "창립 30주년 예금보험공사 디지털역사관 바로가기"
-    }
-  ],
+  "links": [],
   "actions": [],
   "attachments": [],
   "images": [
@@ -96,16 +89,17 @@
     "webtoon_policy": "none",
     "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-16T10:58:50+09:00",
-  "content_markdown": "### 제도 소개 안내영상\n\n.\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
-  "content_text": "제도 소개 안내영상 . 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
-  "parsed_content_sha256": "792e4bcd904acf69f3aac71c1143192aaca34d9c7bfde7d7b4ce63306ba38027",
-  "content_hash": "792e4bcd904acf69f3aac71c1143192aaca34d9c7bfde7d7b4ce63306ba38027",
+  "parsed_at": "2026-07-16T11:34:05+09:00",
+  "content_markdown": "### 제도 소개 안내영상\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
+  "content_text": "제도 소개 안내영상 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
+  "markdown_export": "# 잘못 보낸 돈 되찾기 서비스 (착오송금반환지원 제도)\n\n### 제도 소개 안내영상\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.\n\n## 참고 자료\n\n- [착오송금 반환지원 제도 소개 영상 보기](https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do)",
+  "parsed_content_sha256": "621a58008add8b0ea02f0b0ea365d118d392eea63a8f001f2361c7eb2d007d9e",
+  "content_hash": "621a58008add8b0ea02f0b0ea365d118d392eea63a8f001f2361c7eb2d007d9e",
   "quality": {
     "status": "pass",
     "reasons": [],
-    "source_text_chars": 86,
-    "parsed_text_chars": 86,
+    "source_text_chars": 84,
+    "parsed_text_chars": 84,
     "retention_ratio": 1.0,
     "faq_count": 0,
     "table_count": 0,

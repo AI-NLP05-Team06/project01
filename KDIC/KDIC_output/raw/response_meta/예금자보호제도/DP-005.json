@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.816,
-  "collected_at": "2026-07-16T10:58:00+09:00",
-  "content_length": 208477,
-  "raw_sha256": "cf0f47947cffd89521d042b9e8743309f500b8448940b6d3570ada9ad48f6a82",
+  "elapsed_seconds": 1.949,
+  "collected_at": "2026-07-16T11:32:50+09:00",
+  "content_length": 208475,
+  "raw_sha256": "52d0d4e70867cfd442b7a5109ebb973ac5b601ce6ceb1d7cba19c8d2c06d5c10",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "예금자보호제도",
   "page_title_manifest": "고객센터 > FAQ > 미수령금통합신청(사이트 분류상 명칭, 실제 내용은 예금보호)",
   "fetch_strategy": "paginated_public",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/예금자보호제도/DP-005.html"
 }

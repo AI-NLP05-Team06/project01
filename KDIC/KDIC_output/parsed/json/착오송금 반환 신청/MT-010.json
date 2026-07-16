@@ -6,6 +6,8 @@
   "rag_index_mode": "full",
   "title": "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정",
   "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정",
+  "page_heading": "관련 법령 및 규정",
+  "display_title": "관련 법령 및 규정",
   "html_title": "금융안심포털",
   "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
   "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
@@ -13,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "legal_resource_index",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정"
@@ -81,15 +83,31 @@
   "links": [
     {
       "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001537&ancYnChk=0#0000",
-      "anchor_text": "바로가기"
+      "anchor_text": "바로가기",
+      "link_role": "content",
+      "source_tag": "a"
     },
     {
       "url": "https://www.law.go.kr/lsInfoP.do?lsId=004223&ancYnChk=0#0000",
-      "anchor_text": "바로가기"
+      "anchor_text": "바로가기",
+      "link_role": "content",
+      "source_tag": "a"
     },
     {
-      "url": "https://www.kdic.or.kr/sp/main.do",
-      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지"
+      "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001537&ancYnChk=0#0000",
+      "anchor_text": "예금자보호법 바로가기",
+      "link_role": "action",
+      "action_type": "legal_reference",
+      "source_tag": "a",
+      "action_id": "5a2321c8e8ff21a4"
+    },
+    {
+      "url": "https://www.law.go.kr/lsInfoP.do?lsId=004223&ancYnChk=0#0000",
+      "anchor_text": "예금자보호법 시행령 바로가기",
+      "link_role": "action",
+      "action_type": "legal_reference",
+      "source_tag": "a",
+      "action_id": "ca4a46f9cf5407ef"
     }
   ],
   "actions": [
@@ -135,9 +153,10 @@
     "webtoon_policy": "none",
     "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-16T10:59:16+09:00",
+  "parsed_at": "2026-07-16T11:34:46+09:00",
   "content_markdown": "예금자보호법\n\n- [시행 2024. 9. 10.]\n- [법률 제20431호, 2024. 9. 10., 일부개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n예금자보호법 시행령\n\n- [시행 2025. 1. 31.]\n- [대통령령 제35228호, 2025. 1. 21., 타법개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n착오송금반환지원 규정\n\n예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기\n\n착오송금반환지원 시행세칙\n\n착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기",
   "content_text": "예금자보호법 [시행 2024. 9. 10.] [법률 제20431호, 2024. 9. 10., 일부개정] [제정ㆍ개정문] 바로가기 예금자보호법 시행령 [시행 2025. 1. 31.] [대통령령 제35228호, 2025. 1. 21., 타법개정] [제정ㆍ개정문] 바로가기 착오송금반환지원 규정 예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기 착오송금반환지원 시행세칙 착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기",
+  "markdown_export": "# 관련 법령 및 규정\n\n예금자보호법\n\n- [시행 2024. 9. 10.]\n- [법률 제20431호, 2024. 9. 10., 일부개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n예금자보호법 시행령\n\n- [시행 2025. 1. 31.]\n- [대통령령 제35228호, 2025. 1. 21., 타법개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n착오송금반환지원 규정\n\n예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기\n\n착오송금반환지원 시행세칙\n\n착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기\n\n## 공식 바로가기\n\n- [예금자보호법 바로가기](https://www.law.go.kr/LSW/lsInfoP.do?lsId=001537&ancYnChk=0#0000) — legal_reference\n- [예금자보호법 시행령 바로가기](https://www.law.go.kr/lsInfoP.do?lsId=004223&ancYnChk=0#0000) — legal_reference",
   "parsed_content_sha256": "5a521ec148b18992787f14f338b9ed2904f62c660a71f82a5b49a726083a977a",
   "content_hash": "5a521ec148b18992787f14f338b9ed2904f62c660a71f82a5b49a726083a977a",
   "quality": {

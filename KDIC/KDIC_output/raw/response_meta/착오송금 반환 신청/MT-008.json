@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.74,
-  "collected_at": "2026-07-16T10:59:11+09:00",
-  "content_length": 272305,
-  "raw_sha256": "825056cec7ba68059d745cd404fad937638aef44f4b280ac32aa77cb91241cc8",
+  "elapsed_seconds": 2.237,
+  "collected_at": "2026-07-16T11:34:37+09:00",
+  "content_length": 272303,
+  "raw_sha256": "c4585d112632c139166df0c978416b7111e17f9d547abd04a06f34fd117929d3",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "착오송금 반환 신청",
   "page_title_manifest": "착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금인",
   "fetch_strategy": "requests_html_assets",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/착오송금 반환 신청/MT-008.html"
 }

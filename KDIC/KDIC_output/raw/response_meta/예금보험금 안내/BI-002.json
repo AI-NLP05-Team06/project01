@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.965,
-  "collected_at": "2026-07-16T10:58:18+09:00",
+  "elapsed_seconds": 2.619,
+  "collected_at": "2026-07-16T11:33:18+09:00",
   "content_length": 500027,
-  "raw_sha256": "68475306d3b9df6a934d4253e829bd50589adf7a24f4ba4e0835ea404383c328",
+  "raw_sha256": "a226adc5de237d20f97c7b743ba5e88a625e9f0035a341483918e4fc6ca3d1f1",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "예금보험금 안내",
   "page_title_manifest": "예금보험금 신청 절차 > 예금보험금 신청절차",
   "fetch_strategy": "requests_html",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/예금보험금 안내/BI-002.html"
 }

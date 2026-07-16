@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 0.965,
-  "collected_at": "2026-07-16T10:58:15+09:00",
+  "elapsed_seconds": 2.619,
+  "collected_at": "2026-07-16T11:33:13+09:00",
   "content_length": 506897,
-  "raw_sha256": "873d8d9b0ff5f72912094f0c90bee80f661d75a03a307017a8a385420ef60900",
+  "raw_sha256": "904325cdb5e3623817b78e14d6ac5389c5393f28d8001c828cdeb5880406c0f7",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",
@@ -18,6 +18,6 @@
   "business_function": "예금보험금 안내",
   "page_title_manifest": "예금보험금 안내 > 신청시 구비서류",
   "fetch_strategy": "requests_html_assets",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "raw_html_path": "raw/html/예금보험금 안내/BI-001.html"
 }

@@ -6,6 +6,8 @@
   "rag_index_mode": "full",
   "title": "착오송금반환지원 > 소개와 방법안내 > 방문접수안내",
   "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 방문접수안내",
+  "page_heading": "방문접수안내",
+  "display_title": "방문접수안내",
   "html_title": "금융안심포털",
   "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
   "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
@@ -13,7 +15,7 @@
   "business_function": "착오송금 반환 신청",
   "target_business_function": "착오송금 반환 신청",
   "page_type": "static_page",
-  "parser_profile": "kdic_final_media_attachment_v2",
+  "parser_profile": "kdic_final_media_attachment_v3",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 방문접수안내"
@@ -84,8 +86,36 @@
   ],
   "links": [
     {
-      "url": "https://www.kdic.or.kr/sp/main.do",
-      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지"
+      "url": "https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do",
+      "anchor_text": "신청대상여부 확인하기",
+      "link_role": "action",
+      "action_type": "apply",
+      "source_tag": "button",
+      "action_id": "6ec11899c44f66f0"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do",
+      "anchor_text": "신청하기",
+      "link_role": "action",
+      "action_type": "apply",
+      "source_tag": "button",
+      "action_id": "2feae9067bdf9d5e"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
+      "anchor_text": "HWP 신청서",
+      "link_role": "action",
+      "action_type": "download",
+      "source_tag": "attachment",
+      "action_id": "89506d1392cacfa8"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
+      "anchor_text": "PDF 신청서",
+      "link_role": "action",
+      "action_type": "download",
+      "source_tag": "attachment",
+      "action_id": "5f05a1864ba05ed9"
     }
   ],
   "actions": [
@@ -112,12 +142,12 @@
       "requires_review": false
     },
     {
-      "action_id": "f4cbf912cc9124a4",
+      "action_id": "89506d1392cacfa8",
       "label": "HWP 신청서 공식 다운로드 페이지",
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
       "action_type": "download",
       "source_tag": "attachment",
-      "attachment_id": "f4cbf912cc9124a4",
+      "attachment_id": "89506d1392cacfa8",
       "download_method": "gfn_downloadFile",
       "delivery_mode": "official_download_page",
       "auth_required": "불필요",
@@ -125,12 +155,12 @@
       "requires_review": false
     },
     {
-      "action_id": "be8c64910fa4c42a",
+      "action_id": "5f05a1864ba05ed9",
       "label": "PDF 신청서 공식 다운로드 페이지",
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
       "action_type": "download",
       "source_tag": "attachment",
-      "attachment_id": "be8c64910fa4c42a",
+      "attachment_id": "5f05a1864ba05ed9",
       "download_method": "gfn_downloadFile",
       "delivery_mode": "official_download_page",
       "auth_required": "불필요",
@@ -140,7 +170,7 @@
   ],
   "attachments": [
     {
-      "attachment_id": "f4cbf912cc9124a4",
+      "attachment_id": "89506d1392cacfa8",
       "display_name": "HWP 신청서",
       "file_format": "HWP",
       "download_method": "gfn_downloadFile",
@@ -160,7 +190,7 @@
       "classification_reason": "원본 파일 미다운로드"
     },
     {
-      "attachment_id": "be8c64910fa4c42a",
+      "attachment_id": "5f05a1864ba05ed9",
       "display_name": "PDF 신청서",
       "file_format": "PDF",
       "download_method": "gfn_downloadFile",
@@ -239,9 +269,10 @@
     "webtoon_policy": "none",
     "image_policy": "metadata_only_nondecorative"
   },
-  "parsed_at": "2026-07-16T10:59:20+09:00",
+  "parsed_at": "2026-07-16T11:34:54+09:00",
   "content_markdown": "### 방문접수 절차\n\n방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00\n\n- STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내\n- STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP PDF\n- STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다.\n- STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기\n- STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다.\n\n### 센터 안내\n\n예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33)\n\n지하철 이용 시\n\n- 1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리\n- 2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리\n- 5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리\n\n버스이용시\n\n- 광화문(역)에서 하차\n\n- 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720\n- 광역버스 : 9709\n- 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710",
   "content_text": "방문접수 절차 방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00 STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내 STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP PDF STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다. STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기 STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다. 센터 안내 예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33) 지하철 이용 시 1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리 2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리 5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리 버스이용시 광화문(역)에서 하차 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720 광역버스 : 9709 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710",
+  "markdown_export": "# 방문접수안내\n\n### 방문접수 절차\n\n방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00\n\n- STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내\n- STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP PDF\n- STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다.\n- STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기\n- STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다.\n\n### 센터 안내\n\n예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33)\n\n지하철 이용 시\n\n- 1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리\n- 2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리\n- 5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리\n\n버스이용시\n\n- 광화문(역)에서 하차\n\n- 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720\n- 광역버스 : 9709\n- 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710\n\n## 공식 바로가기\n\n- [신청대상여부 확인하기](https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do) — apply\n- [신청하기](https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do) — apply\n- [HWP 신청서](https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do) — download\n- [PDF 신청서](https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do) — download",
   "parsed_content_sha256": "55537cba4226c325c1072f195089b68f20d845ee21eb100a1b77a531e439ede3",
   "content_hash": "55537cba4226c325c1072f195089b68f20d845ee21eb100a1b77a531e439ede3",
   "quality": {
