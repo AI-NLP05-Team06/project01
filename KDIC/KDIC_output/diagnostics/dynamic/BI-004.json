@@ -158,11 +158,11 @@
     "https://www.kdic.or.kr/docubraille-1.5/js/docubraille-kdic.js",
     "https://www.kdic.or.kr/js/rMateChartH5/JS/rMateChartH5.js",
     "https://www.kdic.or.kr/js/rMateChartH5/Assets/Theme/theme.js",
-    "https://www.kdic.or.kr/js/rMateChartH5/LicenseKey/rMateChartH5License.js?ver=20260713161020",
+    "https://www.kdic.or.kr/js/rMateChartH5/LicenseKey/rMateChartH5License.js?ver=20260713173043",
     "https://www.kdic.or.kr/developerJs/developer.js",
     "https://www.kdic.or.kr/developerJs/Basic.js",
-    "https://www.kdic.or.kr/developerJs/dev_leb.js?ver=20260713161020",
-    "https://www.kdic.or.kr/developerJs/dev_pjm.js?ver=20260713161020",
+    "https://www.kdic.or.kr/developerJs/dev_leb.js?ver=20260713173043",
+    "https://www.kdic.or.kr/developerJs/dev_pjm.js?ver=20260713173043",
     "https://www.kdic.or.kr/developerJs/dev_sjd.js"
   ],
   "inline_script_hints": [
@@ -170,7 +170,7 @@
     "/*검색*/\n\tfunction doSrchForm(){\n\t\t$(\"#srchForm\").attr(\"method\", \"post\");\n\t\t$(\"#srchForm\").attr(\"action\", '/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do');\n\t\t$(\"#srchForm\").submit();\n\t}\n\n\t/*검색 초기화*/\n\tfunction initSrchForm(id){\n\t\t$(\"#\"+id).find(\"input[name]\").each(function(){\n\t\t\tvar $el = $(this)\n\t\t\tif($(this).attr(\"type\") == \"checkbox\"){\n\t\t\t\t$(this).prop(\"checked\", false);\n\t\t\t} else if($(this).attr(\"type\") == \"text\"){\n\t\t\t\t$(this).val(\"\");\n\t\t\t} else if($(this).attr(\"type\") == \"radio\"){\n\t\t\t\t$(this).prop(\"selected\", false);\n\t\t\t}\n\t\t});\n\t\t$(\"#\"+id).find(\"select\").each(function(){\n\t\t\t$(this).val(\"\");\n\t\t});\n\t\tdoSrchForm();\n\t}\n\n\t/* 상세페이지 이동*/\n\tfunction detailView(insacdFnstRegSn, infnstCd) {\n\t\t$(\"#srchForm\").attr(\"method\", \"post\");\n\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'infnstCd', value: infnstCd}));\n\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'insacdFnstRegSn', value: insacdFnstRegSn}));\n\t\t$(\"#srchForm\").attr(\"action\",  '/sp/dpstrprot/selectGiveTrgtFnstSrchList.do');\n\t\t$(\"#srchForm\").submit();\n\t}",
     "function chgPagingNo(pageNo) {\n\t\t\tif($(\"#srchForm\").find(\"input[name='curPage']\").length > 0){\n\t\t\t\t$(\"#srchForm input[name='curPage']\").val(pageNo);\n\t\t\t} else {\n\t\t\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'curPage', value: pageNo}));\n\t\t\t}\n\n\t\t\tif($(\"#srchForm\").find(\"input[name='pageSize']\").length > 0){\n\t\t\t\t$(\"#srchForm input[name='pageSize']\").val('10');\n\t\t\t} else {\n\t\t\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'pageSize', value: '10'}));\n\t\t\t}\n\n\t\t\tdoSrchForm();\n\t\t}"
   ],
-  "diagnosed_at": "2026-07-13T16:10:22+09:00",
+  "diagnosed_at": "2026-07-13T17:30:44+09:00",
   "safety_note": "초기 공개 페이지 구조만 진단했습니다. 검색 폼 제출·로그인·본인인증·신청 실행은 수행하지 않았습니다.",
   "url_id": "BI-004",
   "page_title": "예금보험금 안내 > 보험금 지급대상 금융회사",

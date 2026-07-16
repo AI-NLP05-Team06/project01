@@ -1,8 +1,10 @@
 {
   "doc_id": "MT-011",
   "parent_doc_id": "MT-011",
-  "title": "퀵메뉴",
+  "record_type": "page",
+  "title": "착오송금반환지원 > 소개와 방법안내 > 상황선택",
   "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 상황선택",
+  "html_title": "금융안심포털",
   "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsStutChc/selectScrn.do",
   "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsStutChc/selectScrn.do",
   "site_name": "금융안심포털",
@@ -11,141 +13,71 @@
   "page_type": "landing_router",
   "parser_profile": "fins_router_v1",
   "breadcrumb": [
-    "홈",
-    "착오송금반환지원 미수령금통합신청 착오송금반환지원 경력증명서신청 채무정보조회 부채증명원신청 고객센터 MY 금융안심포털 통합검색 모바일",
+    "착오송금 반환 신청",
     "착오송금반환지원",
-    "미수령금통합신청",
-    "경력증명서신청",
-    "채무정보조회",
-    "부채증명원신청",
-    "고객센터",
-    "MY 금융안심포털",
-    "통합검색",
-    "모바일",
-    "착오송금반환지원 소개와 방법 안내 착오송금반환지원 소개와 방법 안내 착오송금인 착오송금수취인",
-    "착오송금반환지원 소개와 방법 안내",
-    "착오송금인",
-    "착오송금수취인",
-    "상황선택 반환지원절차 관련법령 및 규정 구비서류안내 방문접수안내 상황선택",
-    "상황선택",
-    "반환지원절차",
-    "관련법령 및 규정",
-    "구비서류안내",
-    "방문접수안내"
+    "소개와 방법안내",
+    "상황선택"
   ],
-  "content_markdown": "착오송금인 돈을 잘못 보냈어요.\n\n- 신청자격 확인\n\n- 바로 신청\n\n착오송금수취인 모르는 돈을 받았어요.\n\n- 이의제기\n\n- 채무잔액 확인\n\n- 이체수수료 환급신청\n\n- 반환 확인\n\n※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.\n\n## 퀵메뉴\n\n글자확대 글자축소",
-  "content_text": "착오송금인 돈을 잘못 보냈어요. 신청자격 확인 바로 신청 착오송금수취인 모르는 돈을 받았어요. 이의제기 채무잔액 확인 이체수수료 환급신청 반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오. 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
-  "parsed_content_sha256": "9cbcdee7ab617f84c4af8fd25987d2bb91ed2cbd8eb05385d08981f78a5c5570",
+  "content_markdown": "착오송금인 돈을 잘못 보냈어요.\n\n- 신청자격 확인\n- 바로 신청\n\n착오송금수취인 모르는 돈을 받았어요.\n\n- 이의제기\n- 채무잔액 확인\n- 이체수수료 환급신청\n- 반환 확인\n\n※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
+  "content_text": "착오송금인 돈을 잘못 보냈어요. 신청자격 확인 바로 신청 착오송금수취인 모르는 돈을 받았어요. 이의제기 채무잔액 확인 이체수수료 환급신청 반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
+  "parsed_content_sha256": "89c0d4d98cabbd18807652639f3d8c76330ec3c700e5e82c43fc971e784ec8e2",
+  "content_hash": "89c0d4d98cabbd18807652639f3d8c76330ec3c700e5e82c43fc971e784ec8e2",
   "blocks": [
     {
-      "block_index": 1,
-      "block_type": "paragraph",
-      "text": "착오송금인 돈을 잘못 보냈어요.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "착오송금인 돈을 잘못 보냈어요."
     },
     {
-      "block_index": 2,
-      "block_type": "list_item",
-      "text": "신청자격 확인",
-      "heading_level": null
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "신청자격 확인",
+        "바로 신청"
+      ]
     },
     {
-      "block_index": 3,
-      "block_type": "list_item",
-      "text": "바로 신청",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "착오송금수취인 모르는 돈을 받았어요."
     },
     {
-      "block_index": 4,
-      "block_type": "paragraph",
-      "text": "착오송금수취인 모르는 돈을 받았어요.",
-      "heading_level": null
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "이의제기",
+        "채무잔액 확인",
+        "이체수수료 환급신청",
+        "반환 확인"
+      ]
     },
     {
-      "block_index": 5,
-      "block_type": "list_item",
-      "text": "이의제기",
-      "heading_level": null
-    },
-    {
-      "block_index": 6,
-      "block_type": "list_item",
-      "text": "채무잔액 확인",
-      "heading_level": null
-    },
-    {
-      "block_index": 7,
-      "block_type": "list_item",
-      "text": "이체수수료 환급신청",
-      "heading_level": null
-    },
-    {
-      "block_index": 8,
-      "block_type": "list_item",
-      "text": "반환 확인",
-      "heading_level": null
-    },
-    {
-      "block_index": 9,
-      "block_type": "paragraph",
-      "text": "※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오.",
-      "heading_level": null
-    },
-    {
-      "block_index": 10,
-      "block_type": "heading",
-      "text": "퀵메뉴",
-      "heading_level": 2
-    },
-    {
-      "block_index": 11,
-      "block_type": "paragraph",
-      "text": "글자확대 글자축소",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오."
     }
   ],
   "links": [
     {
       "url": "https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do",
-      "anchor_text": "신청자격 확인",
-      "asset_type": "link",
-      "context": "신청자격 확인 바로 신청"
+      "anchor_text": "신청자격 확인"
     },
     {
       "url": "https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyChc.do",
-      "anchor_text": "바로 신청",
-      "asset_type": "link",
-      "context": "바로 신청 착오송금수취인 모르는 돈을 받았어요."
+      "anchor_text": "바로 신청"
     },
     {
       "url": "https://fins.kdic.or.kr/ir/addrse/selectPrtsList.do",
-      "anchor_text": "이의제기",
-      "asset_type": "link",
-      "context": "이의제기 채무잔액 확인"
+      "anchor_text": "이의제기"
     },
     {
       "url": "https://fins.kdic.or.kr/ir/addrse/selectLbltBlncIdntyList.do",
-      "anchor_text": "채무잔액 확인",
-      "asset_type": "link",
-      "context": "채무잔액 확인 이체수수료 환급신청"
+      "anchor_text": "채무잔액 확인"
     },
     {
       "url": "https://fins.kdic.or.kr/ir/addrse/selectTracFeeRmbrAplyList.do",
-      "anchor_text": "이체수수료 환급신청",
-      "asset_type": "link",
-      "context": "이체수수료 환급신청 반환 확인"
+      "anchor_text": "이체수수료 환급신청"
     },
     {
       "url": "https://fins.kdic.or.kr/ir/addrse/selectGvbkIdntyList.do",
-      "anchor_text": "반환 확인",
-      "asset_type": "link",
-      "context": "반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오."
-    },
-    {
-      "url": "https://www.kdic.or.kr/sp/main.do",
-      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지",
-      "asset_type": "link",
-      "context": "글자확대 글자축소 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 금융안심포털"
+      "anchor_text": "반환 확인"
     }
   ],
   "attachments": [],
@@ -153,130 +85,57 @@
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice01.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "신청자격 확인 바로 신청"
+      "filename": "img-situChoice01.png",
+      "image_role": "decorative"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice02.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "바로 신청 착오송금수취인 모르는 돈을 받았어요."
+      "filename": "img-situChoice02.png",
+      "image_role": "decorative"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice03.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "이의제기 채무잔액 확인"
+      "filename": "img-situChoice03.png",
+      "image_role": "decorative"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice04.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "채무잔액 확인 이체수수료 환급신청"
+      "filename": "img-situChoice04.png",
+      "image_role": "decorative"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice05.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "이체수수료 환급신청 반환 확인"
+      "filename": "img-situChoice05.png",
+      "image_role": "decorative"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-situChoice06.png",
       "alt": "",
-      "title": "",
-      "caption": "",
-      "context": "반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오."
+      "filename": "img-situChoice06.png",
+      "image_role": "decorative"
     }
   ],
   "videos": [],
-  "parsed_at": "2026-07-13T16:10:59+09:00",
+  "quality": {
+    "status": "pass",
+    "reasons": [],
+    "source_text_chars": 125,
+    "parsed_text_chars": 125,
+    "retention_ratio": 1.0,
+    "faq_count": 0,
+    "table_count": 0,
+    "attachment_button_count": 0,
+    "noise_hits": []
+  },
+  "parsed_at": "2026-07-13T17:31:21+09:00",
   "downloaded_assets": {
     "attachments": [],
-    "images": [
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice01.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice01.png",
-        "filename": "img-situChoice01.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice01.png",
-        "content_type": "image/png",
-        "size_bytes": 3432,
-        "sha256": "66a2adad0ce14aca29ccadd5db1fae4ddce910d2ea0375703b3e4650680c53e0",
-        "downloaded_at": "2026-07-13T16:10:59+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "신청자격 확인 바로 신청"
-      },
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice02.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice02.png",
-        "filename": "img-situChoice02.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice02.png",
-        "content_type": "image/png",
-        "size_bytes": 6701,
-        "sha256": "ee8cbd87f61d97b402a8f381a9abce7bf16fda00e8739049942b8ccb00f6a121",
-        "downloaded_at": "2026-07-13T16:10:59+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "바로 신청 착오송금수취인 모르는 돈을 받았어요."
-      },
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice03.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice03.png",
-        "filename": "img-situChoice03.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice03.png",
-        "content_type": "image/png",
-        "size_bytes": 4856,
-        "sha256": "c706db2758a1acff8c0d924bc6ce9c64f25de1d92d0c2c380edfc574d8971720",
-        "downloaded_at": "2026-07-13T16:11:00+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "이의제기 채무잔액 확인"
-      },
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice04.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice04.png",
-        "filename": "img-situChoice04.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice04.png",
-        "content_type": "image/png",
-        "size_bytes": 5736,
-        "sha256": "3160ee09adb9f3bdc095d0ef99d49221f37b35f567623225334ba7d79a707eed",
-        "downloaded_at": "2026-07-13T16:11:00+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "채무잔액 확인 이체수수료 환급신청"
-      },
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice05.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice05.png",
-        "filename": "img-situChoice05.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice05.png",
-        "content_type": "image/png",
-        "size_bytes": 5055,
-        "sha256": "c1ed434ade96704f20978bfe81b46d84f234e4dce2cd5a332b143e6e46f74fc7",
-        "downloaded_at": "2026-07-13T16:11:00+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "이체수수료 환급신청 반환 확인"
-      },
-      {
-        "source_url": "https://fins.kdic.or.kr/assets/images/img-situChoice06.png",
-        "final_url": "https://fins.kdic.or.kr/assets/images/img-situChoice06.png",
-        "filename": "img-situChoice06.png",
-        "relative_path": "raw/assets/착오송금 반환 신청/MT-011/images/img-situChoice06.png",
-        "content_type": "image/png",
-        "size_bytes": 3880,
-        "sha256": "60cabaace9d88a6b5326e7157df9bc18353b957fd4fa0e93f185f5b518c218d5",
-        "downloaded_at": "2026-07-13T16:11:00+09:00",
-        "alt": "",
-        "caption": "",
-        "context": "반환 확인 ※ 착오송금반환지원을 처음 하시는 분은 신청자격 확인을 먼저 진행해주십시오."
-      }
-    ],
+    "attachment_metadata": [],
+    "images": [],
     "videos": [],
     "failures": []
   }

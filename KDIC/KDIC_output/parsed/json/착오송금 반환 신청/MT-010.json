@@ -1,8 +1,10 @@
 {
   "doc_id": "MT-010",
   "parent_doc_id": "MT-010",
-  "title": "퀵메뉴",
+  "record_type": "page",
+  "title": "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정",
   "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정",
+  "html_title": "금융안심포털",
   "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
   "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
   "site_name": "금융안심포털",
@@ -11,119 +13,103 @@
   "page_type": "legal_resource_index",
   "parser_profile": "fins_legal_index_v1",
   "breadcrumb": [
-    "홈",
-    "착오송금반환지원 미수령금통합신청 착오송금반환지원 경력증명서신청 채무정보조회 부채증명원신청 고객센터 MY 금융안심포털 통합검색 모바일",
+    "착오송금 반환 신청",
     "착오송금반환지원",
-    "미수령금통합신청",
-    "경력증명서신청",
-    "채무정보조회",
-    "부채증명원신청",
-    "고객센터",
-    "MY 금융안심포털",
-    "통합검색",
-    "모바일",
-    "착오송금반환지원 소개와 방법 안내 착오송금반환지원 소개와 방법 안내 착오송금인 착오송금수취인",
-    "착오송금반환지원 소개와 방법 안내",
-    "착오송금인",
-    "착오송금수취인",
-    "관련법령 및 규정 반환지원절차 관련법령 및 규정 구비서류안내 방문접수안내 상황선택",
-    "관련법령 및 규정",
-    "반환지원절차",
-    "구비서류안내",
-    "방문접수안내",
-    "상황선택"
+    "소개와 방법안내",
+    "관련법령 및 규정"
   ],
-  "content_markdown": "- [시행 2024. 9. 10.]\n\n- [법률 제20431호, 2024. 9. 10., 일부개정]\n\n- [제정ㆍ개정문]\n\n- [시행 2025. 1. 31.]\n\n- [대통령령 제35228호, 2025. 1. 21., 타법개정]\n\n- [제정ㆍ개정문]\n\n예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다.\n\n착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다.\n\n## 퀵메뉴\n\n글자확대 글자축소",
-  "content_text": "예금자보호법 [시행 2024. 9. 10.] [법률 제20431호, 2024. 9. 10., 일부개정] [제정ㆍ개정문] 바로가기 예금자보호법 시행령 [시행 2025. 1. 31.] [대통령령 제35228호, 2025. 1. 21., 타법개정] [제정ㆍ개정문] 바로가기 착오송금반환지원 규정 예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기 착오송금반환지원 시행세칙 착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
-  "parsed_content_sha256": "c8625581045cf4bc01c89285ed6478a1dc7bd8f434be7007d9e36eaa3707d3d1",
+  "content_markdown": "예금자보호법\n\n- [시행 2024. 9. 10.]\n- [법률 제20431호, 2024. 9. 10., 일부개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n예금자보호법 시행령\n\n- [시행 2025. 1. 31.]\n- [대통령령 제35228호, 2025. 1. 21., 타법개정]\n- [제정ㆍ개정문]\n\n바로가기\n\n착오송금반환지원 규정\n\n예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기\n\n착오송금반환지원 시행세칙\n\n착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다.\n\n바로가기",
+  "content_text": "예금자보호법 [시행 2024. 9. 10.] [법률 제20431호, 2024. 9. 10., 일부개정] [제정ㆍ개정문] 바로가기 예금자보호법 시행령 [시행 2025. 1. 31.] [대통령령 제35228호, 2025. 1. 21., 타법개정] [제정ㆍ개정문] 바로가기 착오송금반환지원 규정 예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기 착오송금반환지원 시행세칙 착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다. 바로가기",
+  "parsed_content_sha256": "5a521ec148b18992787f14f338b9ed2904f62c660a71f82a5b49a726083a977a",
+  "content_hash": "5a521ec148b18992787f14f338b9ed2904f62c660a71f82a5b49a726083a977a",
   "blocks": [
     {
-      "block_index": 1,
-      "block_type": "list_item",
-      "text": "[시행 2024. 9. 10.]",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예금자보호법"
     },
     {
-      "block_index": 2,
-      "block_type": "list_item",
-      "text": "[법률 제20431호, 2024. 9. 10., 일부개정]",
-      "heading_level": null
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[시행 2024. 9. 10.]",
+        "[법률 제20431호, 2024. 9. 10., 일부개정]",
+        "[제정ㆍ개정문]"
+      ]
     },
     {
-      "block_index": 3,
-      "block_type": "list_item",
-      "text": "[제정ㆍ개정문]",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "바로가기"
     },
     {
-      "block_index": 4,
-      "block_type": "list_item",
-      "text": "[시행 2025. 1. 31.]",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예금자보호법 시행령"
     },
     {
-      "block_index": 5,
-      "block_type": "list_item",
-      "text": "[대통령령 제35228호, 2025. 1. 21., 타법개정]",
-      "heading_level": null
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "[시행 2025. 1. 31.]",
+        "[대통령령 제35228호, 2025. 1. 21., 타법개정]",
+        "[제정ㆍ개정문]"
+      ]
     },
     {
-      "block_index": 6,
-      "block_type": "list_item",
-      "text": "[제정ㆍ개정문]",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "바로가기"
     },
     {
-      "block_index": 7,
-      "block_type": "paragraph",
-      "text": "예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "착오송금반환지원 규정"
     },
     {
-      "block_index": 8,
-      "block_type": "paragraph",
-      "text": "착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다."
     },
     {
-      "block_index": 9,
-      "block_type": "heading",
-      "text": "퀵메뉴",
-      "heading_level": 2
+      "type": "paragraph",
+      "text": "바로가기"
     },
     {
-      "block_index": 10,
-      "block_type": "paragraph",
-      "text": "글자확대 글자축소",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "착오송금반환지원 시행세칙"
+    },
+    {
+      "type": "paragraph",
+      "text": "착오송금반환지원 등에 관한 규정에서 위임한 사항과 동 규정의 시해에 관하여 필요한 사항을 확인할 수 있습니다."
+    },
+    {
+      "type": "paragraph",
+      "text": "바로가기"
     }
   ],
   "links": [
     {
       "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsId=001537&ancYnChk=0#0000",
-      "anchor_text": "바로가기",
-      "asset_type": "link",
-      "context": "[제정ㆍ개정문] 예금자보호법 [시행 2024. 9. 10.] [법률 제20431호, 2024. 9. 10., 일부개정] [제정ㆍ개정문] 바로가기 [시행 2025. 1. 31.]"
+      "anchor_text": "바로가기"
     },
     {
       "url": "https://www.law.go.kr/lsInfoP.do?lsId=004223&ancYnChk=0#0000",
-      "anchor_text": "바로가기",
-      "asset_type": "link",
-      "context": "[제정ㆍ개정문] 예금자보호법 시행령 [시행 2025. 1. 31.] [대통령령 제35228호, 2025. 1. 21., 타법개정] [제정ㆍ개정문] 바로가기 예금자보호법 및 시행령에 따라 예금보험위원회에 위임된사항과 그 시행에 관하여 필요한 사항을 확인할 수 있습니다."
-    },
-    {
-      "url": "https://www.kdic.or.kr/sp/main.do",
-      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지",
-      "asset_type": "link",
-      "context": "글자확대 글자축소 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 착오송금 반환지원 등에 관한 규정"
+      "anchor_text": "바로가기"
     }
   ],
   "attachments": [],
   "images": [],
   "videos": [],
-  "parsed_at": "2026-07-13T16:10:57+09:00",
+  "quality": {
+    "status": "pass",
+    "reasons": [],
+    "source_text_chars": 310,
+    "parsed_text_chars": 310,
+    "retention_ratio": 1.0,
+    "faq_count": 0,
+    "table_count": 0,
+    "attachment_button_count": 0,
+    "noise_hits": []
+  },
+  "parsed_at": "2026-07-13T17:31:19+09:00",
   "downloaded_assets": {
     "attachments": [],
+    "attachment_metadata": [],
     "images": [],
     "videos": [],
     "failures": []

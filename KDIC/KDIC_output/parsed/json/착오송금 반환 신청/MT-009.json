@@ -1,8 +1,10 @@
 {
   "doc_id": "MT-009",
   "parent_doc_id": "MT-009",
-  "title": "퀵메뉴",
+  "record_type": "page",
+  "title": "착오송금반환지원 > 소개와 방법안내 > 반환지원절차",
   "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 반환지원절차",
+  "html_title": "금융안심포털",
   "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsGvbkSprtProc/selectScrn.do",
   "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsGvbkSprtProc/selectScrn.do",
   "site_name": "금융안심포털",
@@ -11,265 +13,259 @@
   "page_type": "process_page",
   "parser_profile": "fins_static_v1",
   "breadcrumb": [
-    "홈",
-    "착오송금반환지원 미수령금통합신청 착오송금반환지원 경력증명서신청 채무정보조회 부채증명원신청 고객센터 MY 금융안심포털 통합검색 모바일",
+    "착오송금 반환 신청",
     "착오송금반환지원",
-    "미수령금통합신청",
-    "경력증명서신청",
-    "채무정보조회",
-    "부채증명원신청",
-    "고객센터",
-    "MY 금융안심포털",
-    "통합검색",
-    "모바일",
-    "착오송금반환지원 소개와 방법 안내 착오송금반환지원 소개와 방법 안내 착오송금인 착오송금수취인",
-    "착오송금반환지원 소개와 방법 안내",
-    "착오송금인",
-    "착오송금수취인",
-    "반환지원절차 반환지원절차 관련법령 및 규정 구비서류안내 방문접수안내 상황선택",
-    "반환지원절차",
-    "관련법령 및 규정",
-    "구비서류안내",
-    "방문접수안내",
-    "상황선택"
+    "소개와 방법안내",
+    "반환지원절차"
   ],
-  "content_markdown": "### 착오송금 반환지원의 절차\n\n- 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)\n\n- 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인\n\n- 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유\n\n- 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행\n\n- 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환\n\n- 1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다.\n\n- 2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다.\n\n- 3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다.\n\n- 4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다.\n\n- 5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다.\n\n### 예툰이와 예솜이가 알려주는 착오송금반환지원 절차\n\n## 퀵메뉴\n\n글자확대 글자축소",
-  "content_text": "착오송금 반환지원의 절차 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입) 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환 1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다. 2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다. 3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다. 4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다. 5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다. 예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\" 예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금] 집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\" 예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\" 예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\" 예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금 예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\" 예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\" 반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달 ! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고 \"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지 [착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\" 법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?) \"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원) 예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\" 고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\" 이전 다음 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
-  "parsed_content_sha256": "18b27d2abc14b3fea2d0ec6a1a8465684dbabbfaecdc527682e55af226e27dc3",
+  "content_markdown": "### 착오송금 반환지원의 절차\n\n1. 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)\n2. 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인\n3. 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유\n4. 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행\n5. 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환\n\n1. 1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다.\n2. 2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다.\n3. 3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다.\n4. 4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다.\n5. 5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다.\n\n### 예툰이와 예솜이가 알려주는 착오송금반환지원 절차\n\n예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\"\n\n예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금]\n\n집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\"\n\n예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\"\n\n예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\"\n\n예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금\n\n예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\"\n\n예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\"\n\n반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달\n\n! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고\n\n\"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지\n\n[착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다\n\n예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\"\n\n법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다\n\n예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?)\n\n\"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원)\n\n예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\"\n\n고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\"\n\n이전 다음",
+  "content_text": "착오송금 반환지원의 절차 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입) 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환 1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다. 2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다. 3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다. 4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다. 5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다. 예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\" 예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금] 집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\" 예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\" 예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\" 예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금 예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\" 예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\" 반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달 ! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고 \"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지 [착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\" 법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?) \"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원) 예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\" 고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\" 이전 다음",
+  "parsed_content_sha256": "0dbb65aeb83605b9982ad4f7b25aae10632afbce181e27f8f7e5dcb5cee942aa",
+  "content_hash": "0dbb65aeb83605b9982ad4f7b25aae10632afbce181e27f8f7e5dcb5cee942aa",
   "blocks": [
     {
-      "block_index": 1,
-      "block_type": "heading",
-      "text": "착오송금 반환지원의 절차",
-      "heading_level": 3
+      "type": "heading",
+      "level": 3,
+      "text": "착오송금 반환지원의 절차"
     },
     {
-      "block_index": 2,
-      "block_type": "list_item",
-      "text": "1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)",
-      "heading_level": null
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)",
+        "2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인",
+        "3. 예금보험공사는 착오송금 수취인에게 자진반환 권유",
+        "4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행",
+        "5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환"
+      ]
     },
     {
-      "block_index": 3,
-      "block_type": "list_item",
-      "text": "2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인",
-      "heading_level": null
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다.",
+        "2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다.",
+        "3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다.",
+        "4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다.",
+        "5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다."
+      ]
     },
     {
-      "block_index": 4,
-      "block_type": "list_item",
-      "text": "3. 예금보험공사는 착오송금 수취인에게 자진반환 권유",
-      "heading_level": null
+      "type": "heading",
+      "level": 3,
+      "text": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차"
     },
     {
-      "block_index": 5,
-      "block_type": "list_item",
-      "text": "4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\""
     },
     {
-      "block_index": 6,
-      "block_type": "list_item",
-      "text": "5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금]"
     },
     {
-      "block_index": 7,
-      "block_type": "list_item",
-      "text": "1 금융회사를 통한 사전반환 신청단계에서 착오송금 수취인이 자진반환 불응 시 착오송금인은 예보에 반환지원 신청하고, 지원대상에 해당될 경우 예보는 착오송금인으로부터 부당이득반환채권을 매입합니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\""
     },
     {
-      "block_index": 8,
-      "block_type": "list_item",
-      "text": "2 예보는 금융회사, 이동통신사, 행정안전부 등을 통하여 착오송금 수취인의 연락처 및 주소를 확보합니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\""
     },
     {
-      "block_index": 9,
-      "block_type": "list_item",
-      "text": "3 예보는 확보된 연락처, 주소 정보를 토대로 착오송금 수취인에게 자진반환을 권유하여 회수합니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\""
     },
     {
-      "block_index": 10,
-      "block_type": "list_item",
-      "text": "4 만약 착오송금 수취인이 자진반환에 응하지 않을 경우 법원의 지급명령을 통해 회수를 진행합니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금"
     },
     {
-      "block_index": 11,
-      "block_type": "list_item",
-      "text": "5 회수 완료 시 회수액에서 비용공제 후 잔액을 착오송금인에게 반환합니다.",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\""
     },
     {
-      "block_index": 12,
-      "block_type": "heading",
-      "text": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차",
-      "heading_level": 3
+      "type": "paragraph",
+      "text": "예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\""
     },
     {
-      "block_index": 13,
-      "block_type": "heading",
-      "text": "퀵메뉴",
-      "heading_level": 2
+      "type": "paragraph",
+      "text": "반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달"
     },
     {
-      "block_index": 14,
-      "block_type": "paragraph",
-      "text": "글자확대 글자축소",
-      "heading_level": null
+      "type": "paragraph",
+      "text": "! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지"
+    },
+    {
+      "type": "paragraph",
+      "text": "[착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다"
+    },
+    {
+      "type": "paragraph",
+      "text": "예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\""
+    },
+    {
+      "type": "paragraph",
+      "text": "법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다"
+    },
+    {
+      "type": "paragraph",
+      "text": "예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원)"
+    },
+    {
+      "type": "paragraph",
+      "text": "예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\""
+    },
+    {
+      "type": "paragraph",
+      "text": "고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\""
+    },
+    {
+      "type": "paragraph",
+      "text": "이전 다음"
     }
   ],
-  "links": [
-    {
-      "url": "https://www.kdic.or.kr/sp/main.do",
-      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지",
-      "asset_type": "link",
-      "context": "글자확대 글자축소 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 금융안심포털"
-    }
-  ],
+  "links": [],
   "attachments": [],
   "images": [
     {
       "url": "https://fins.kdic.or.kr/assets/images/img-irAa0000m1-pc.png",
       "alt": "예금보험공사를 통한 착오송금 반환지원의 절차",
-      "title": "",
-      "caption": "",
-      "context": "착오송금 반환지원의 절차 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입) 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)"
+      "filename": "img-irAa0000m1-pc.png",
+      "image_role": "content_image"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon01.jpg",
       "alt": "착오송금반환지원 절차 그림1",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\" 글자확대 글자축소"
+      "filename": "webtoon01.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon02.jpg",
       "alt": "착오송금반환지원 절차 그림2",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금] 글자확대 글자축소"
+      "filename": "webtoon02.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon03.jpg",
       "alt": "착오송금반환지원 절차 그림3",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\" 글자확대 글자축소"
+      "filename": "webtoon03.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon04.jpg",
       "alt": "착오송금반환지원 절차 그림4",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\" 글자확대 글자축소"
+      "filename": "webtoon04.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon05.jpg",
       "alt": "착오송금반환지원 절차 그림5",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\" 글자확대 글자축소"
+      "filename": "webtoon05.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon06.jpg",
       "alt": "착오송금반환지원 절차 그림6",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금 글자확대 글자축소"
+      "filename": "webtoon06.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon07.jpg",
       "alt": "착오송금반환지원 절차 그림7",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\" 글자확대 글자축소"
+      "filename": "webtoon07.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon08.jpg",
       "alt": "착오송금반환지원 절차 그림8",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\" 글자확대 글자축소"
+      "filename": "webtoon08.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon09.jpg",
       "alt": "착오송금반환지원 절차 그림9",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달 글자확대 글자축소"
+      "filename": "webtoon09.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon10.jpg",
       "alt": "착오송금반환지원 절차 그림10",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 ! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고 글자확대 글자축소"
+      "filename": "webtoon10.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon11.jpg",
       "alt": "착오송금반환지원 절차 그림11",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 \"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지 글자확대 글자축소"
+      "filename": "webtoon11.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon12.jpg",
       "alt": "착오송금반환지원 절차 그림12",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 [착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 글자확대 글자축소"
+      "filename": "webtoon12.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon13.jpg",
       "alt": "착오송금반환지원 절차 그림13",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\" 글자확대 글자축소"
+      "filename": "webtoon13.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon14.jpg",
       "alt": "착오송금반환지원 절차 그림14",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 글자확대 글자축소"
+      "filename": "webtoon14.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon15.jpg",
       "alt": "착오송금반환지원 절차 그림15",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?) 글자확대 글자축소"
+      "filename": "webtoon15.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon16.jpg",
       "alt": "착오송금반환지원 절차 그림16",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 \"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원) 글자확대 글자축소"
+      "filename": "webtoon16.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon17.jpg",
       "alt": "착오송금반환지원 절차 그림17",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\" 글자확대 글자축소"
+      "filename": "webtoon17.jpg",
+      "image_role": "supplementary_visual"
     },
     {
       "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon18.jpg",
       "alt": "착오송금반환지원 절차 그림18",
-      "title": "",
-      "caption": "",
-      "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\" 글자확대 글자축소"
+      "filename": "webtoon18.jpg",
+      "image_role": "supplementary_visual"
     }
   ],
   "videos": [],
-  "parsed_at": "2026-07-13T16:10:51+09:00",
+  "quality": {
+    "status": "pass",
+    "reasons": [],
+    "source_text_chars": 2228,
+    "parsed_text_chars": 2228,
+    "retention_ratio": 1.0,
+    "faq_count": 0,
+    "table_count": 0,
+    "attachment_button_count": 0,
+    "noise_hits": []
+  },
+  "parsed_at": "2026-07-13T17:31:13+09:00",
   "downloaded_assets": {
     "attachments": [],
+    "attachment_metadata": [],
     "images": [
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/img-irAa0000m1-pc.png",
@@ -279,10 +275,11 @@
         "content_type": "image/png",
         "size_bytes": 122511,
         "sha256": "aff28135a49acf2d40a3d0147cfb8aefd35c761053a9961f4ef4c1ff1ecfdcee",
-        "downloaded_at": "2026-07-13T16:10:52+09:00",
+        "downloaded_at": "2026-07-13T17:31:13+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/img-irAa0000m1-pc.png",
         "alt": "예금보험공사를 통한 착오송금 반환지원의 절차",
-        "caption": "",
-        "context": "착오송금 반환지원의 절차 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입) 2. 예금보험공사는 중앙행정기관/금융회사 등에 착오송금 수취인 정보 확인 3. 예금보험공사는 착오송금 수취인에게 자진반환 권유 4. 예금보험공사는 법원에게 착오송금 수취인이 미반환시 지급명령 진행 5. 예금보험공사는 착오송금 수취인에게서 회수 시 회수액에서 비용 차감 후 착오송금인에게 잔액 반환 1. 착오송금인은 예금보험공사에게 반환지원신청(채권매입)"
+        "image_role": "content_image"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon01.jpg",
@@ -292,10 +289,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 206994,
         "sha256": "5f4ac33ec28ece96b26b18c5d7f0afc79d336cf013a34aecbb0541ec94bfefbf",
-        "downloaded_at": "2026-07-13T16:10:52+09:00",
+        "downloaded_at": "2026-07-13T17:31:14+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon01.jpg",
         "alt": "착오송금반환지원 절차 그림1",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이와 예솜이가 알려주는 착오송금 반환지원 제도 실수로 잘못 송금한 돈 돌려받을 수 있을까? 예튼이 : \"?\" 예솜이 : \"!\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon02.jpg",
@@ -305,10 +303,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 183818,
         "sha256": "4f606e8f63d941145ce0b6caeec4b8d2933ae761768ecad34b1da671d0f7ad72",
-        "downloaded_at": "2026-07-13T16:10:52+09:00",
+        "downloaded_at": "2026-07-13T17:31:14+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon02.jpg",
         "alt": "착오송금반환지원 절차 그림2",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"이번 달 월세내는 날이잖아! 늦기 전에 송금해야지.(맞겠지?)\" 홍동길 하늘은행 1234-567-890 송금하시겠습니까? [송금] 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon03.jpg",
@@ -318,10 +317,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 189287,
         "sha256": "73793385442a18d881f03acbb4f5a42ab188c463d0e070b9dd9b226dcfdf8296",
-        "downloaded_at": "2026-07-13T16:10:52+09:00",
+        "downloaded_at": "2026-07-13T17:31:14+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon03.jpg",
         "alt": "착오송금반환지원 절차 그림3",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 집주인 : \"예튼 씨? 이번 달 월세가 안 들어 왔는데요?\" 집주인 홍길동 계좌번호 1234-567-891 예튼이 : \"! 네? 제가 며칠 전에 보냈는데요?\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon04.jpg",
@@ -331,10 +331,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 194530,
         "sha256": "0d82ae450c7ed79197b639eff949193ed00b1da00b7ffff1780cf912778e14b9",
-        "downloaded_at": "2026-07-13T16:10:53+09:00",
+        "downloaded_at": "2026-07-13T17:31:14+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon04.jpg",
         "alt": "착오송금반환지원 절차 그림4",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"하늘 은행이죠? 착오송금을 했는데 돈을 돌려받을 수 있나요?(안돼! 이럴 수가)\" 하늘은행 : \"죄송합니다 착오송금 수취인과 연락이 되지 않아서 돌려드릴 수가 없네요\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon05.jpg",
@@ -344,10 +345,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 189447,
         "sha256": "d424b808e08afe43ec0eb2c6506a4824f268cf1a8a4aa590f6b993531bd9b602",
-        "downloaded_at": "2026-07-13T16:10:53+09:00",
+        "downloaded_at": "2026-07-13T17:31:14+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon05.jpg",
         "alt": "착오송금반환지원 절차 그림5",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"흑흑 예솜아 어떻게 하지? 계좌번호가 비슷해서 월세를 다른 사람에게 송금해버렸어!\" \"금융회사를 통한 반환이 불가능하데\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon06.jpg",
@@ -357,10 +359,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 170759,
         "sha256": "06bf5ca42238956c2bd48d54dd7bfbacb4b9b15c1ae43c0dfea2bda903ecc5d5",
-        "downloaded_at": "2026-07-13T16:10:53+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon06.jpg",
         "alt": "착오송금반환지원 절차 그림6",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예솜이 : \"예튼아 걱정하지마 착오송금액이 5만 원에서 5천만 원 사이라면 예금보험공사의 착오송금 반환지원 제도를 이용하면 돼(더 자세하게 알아볼까?)\" 예튼이 : (착오송금 반환 지원 제도?) *반환지원 대상 : (5만원 이상 1천만원 이하) '2021년 7월 6일 이후 발생한 착오송금 (1천만원 초과 5천만원 이하) '2023년 1월 1일 이후 발생한 착오송금 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon07.jpg",
@@ -370,10 +373,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 202044,
         "sha256": "4126815c1cd19c27601c1082ff231274d085e178b7d815aeec8180708088fb7f",
-        "downloaded_at": "2026-07-13T16:10:53+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon07.jpg",
         "alt": "착오송금반환지원 절차 그림7",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"우와아! 정말 다행이다\" \"어떻게 신청하지?\" 1. 온라인 홈페이지 신청 2. 예금보험공사 방문신청 예솜이 : \"대리 신청도 가능해\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon08.jpg",
@@ -383,10 +387,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 200029,
         "sha256": "22f8927f2c478a36a89a7d2eaa4fa1a0666db84d7de401a70fabd6ee8e5996a1",
-        "downloaded_at": "2026-07-13T16:10:53+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon08.jpg",
         "alt": "착오송금반환지원 절차 그림8",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"그럼 이제 신청했으니 돈을 바로돌려받을 수 있나?\" 예솜이 : \"아니, 일단 예금보험공사에서 네가 반환 지원 대상인지 심사 후 요건에 충족해야 해\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon09.jpg",
@@ -396,10 +401,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 165556,
         "sha256": "ea6a0dfeafb0528d360f76c7bb0ddd1796f2e1520ebdd3e03a702d59a7e7b4d6",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon09.jpg",
         "alt": "착오송금반환지원 절차 그림9",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 반환지원 대상으로 결정된다면 예금보험공사가 행정안전부, 금융회사, 통신사를 통해 착오송금 수취인의 정보를 확인해 착오송금 수취인 정보 [행정안전부, 금융회사, 통신사]에 전달 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon10.jpg",
@@ -409,10 +415,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 98382,
         "sha256": "637c07e11212c0059ee3b760b4a09d41597dc0b6941cf35e46a31202942983ca",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon10.jpg",
         "alt": "착오송금반환지원 절차 그림10",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 ! 양도 통지문 그다음에 착오송금 수취인에게 착오송금인과 예금보험공사가 부당이득 반환채권에 대한 양수도 계약을 체결했다는 내용이 담긴 양도 통지문을 발송하고 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon11.jpg",
@@ -422,10 +429,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 158137,
         "sha256": "e856109db2629b4ce3d01901109de0106673821e533ae145008eac25465299c0",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:15+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon11.jpg",
         "alt": "착오송금반환지원 절차 그림11",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 \"홍동길 씨?\" \"예금보험공사입니다.\" 전화, 문자 등으로 자진반환할 것을 권유하지 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon12.jpg",
@@ -435,10 +443,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 180984,
         "sha256": "f3389b2c19fd0b351dcf4c965140a51175b745f46d23ff533878b17234432c3b",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon12.jpg",
         "alt": "착오송금반환지원 절차 그림12",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 [착오송금 수취인] > [예금보험공사] > [착오송금인] 착오송금액 착오송금 수취인이 착오송금액을 예금보험공사로 돌려주면 반환된 금액에서 자진 반환에 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon13.jpg",
@@ -448,10 +457,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 114650,
         "sha256": "427dafdbc2189e79175184fb97bcbfa7940dda357dcb69172a0b1d704192e470",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon13.jpg",
         "alt": "착오송금반환지원 절차 그림13",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"하지만 착오송금 수취인이 돈을 돌려주지 않으면 어떻게하지?(걱정 걱정)\" 예솜이 : \"예금보험공사가 법원에 지급명령 신청을 할 수 있어\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon14.jpg",
@@ -461,10 +471,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 197350,
         "sha256": "73d6549f637efc4df75170aecb969d74ab30f34a1d0909ce76bb70ee73b4975b",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon14.jpg",
         "alt": "착오송금반환지원 절차 그림14",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 법원(지급명령) > 착오송금 수취인(착오송금액) > 예금보험공사 착오송금 수취인이 법원 지급명령 결정에 응하여 예금보험공사에 착오송금액을 돌려주면 지급명령까지 소요된 비용을 차감하고 착오송금액을 돌려받게 됩니다 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon15.jpg",
@@ -474,10 +485,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 192739,
         "sha256": "927e32a437ebe0b281be51dc6f94e8fcfc36d047292b67257bb44e178ceebdee",
-        "downloaded_at": "2026-07-13T16:10:54+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon15.jpg",
         "alt": "착오송금반환지원 절차 그림15",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"난 틀렸어! 법원이 정한 기한이 지났는데도 돈을 돌려주지 않아\" 예솜이 : (뭐라고?) 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon16.jpg",
@@ -487,10 +499,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 138261,
         "sha256": "51b55f5f9cda3bf88459d8beddd04a3abea1abe40796d8c872dc9c169fcd1a87",
-        "downloaded_at": "2026-07-13T16:10:55+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon16.jpg",
         "alt": "착오송금반환지원 절차 그림16",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 \"최후의 방법을 써야겠어\" \"착오송금 수취인 재산 압류를 통해 착오송금액을 회수하자\" 착오송금 수취인 재산확인(하늘은행) > 압류하여 반환금을 회수(법원) 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon17.jpg",
@@ -500,10 +513,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 218600,
         "sha256": "1dbd3f82a3045829d98ac0e06e1dd99cee1b65ad14f7c72cb35e5bf567c13269",
-        "downloaded_at": "2026-07-13T16:10:55+09:00",
+        "downloaded_at": "2026-07-13T17:31:16+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon17.jpg",
         "alt": "착오송금반환지원 절차 그림17",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 예튼이 : \"야호! 만세! 예금보험공사 덕분에 나의 소중한 월세를 돌려받았어! 이제 다시는 잘못 송금하지 않을거야!\" 예솜이 : \"그래 예튼아 송금할 때는 항상 수취인명, 금액, 계좌번호를 꼼꼼하게 확인하자!(와아아)\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       },
       {
         "source_url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon18.jpg",
@@ -513,10 +527,11 @@
         "content_type": "image/jpeg",
         "size_bytes": 195083,
         "sha256": "33b0a08e5e5ff25f9d2be09e6355735b449d0d13602969d4f27338bb5fc76412",
-        "downloaded_at": "2026-07-13T16:10:55+09:00",
+        "downloaded_at": "2026-07-13T17:31:17+09:00",
+        "download_status": "downloaded",
+        "url": "https://fins.kdic.or.kr/assets/images/webtoon/webtoon18.jpg",
         "alt": "착오송금반환지원 절차 그림18",
-        "caption": "",
-        "context": "예툰이와 예솜이가 알려주는 착오송금반환지원 절차 고마워요 예금보험공사 예튼이 : \"잘못 송금한 돈 포기하지 말고!\" 예솜이 : \"꼭! 돌려받아요\" 글자확대 글자축소"
+        "image_role": "supplementary_visual"
       }
     ],
     "videos": [],
