@@ -43,7 +43,12 @@
 				
 					
 					
-						보호한도
+						예금보험금 안내
+					
+				
+					
+					
+						보험금 지급대상 금융회사
 					
 				
 			
@@ -67,7 +72,7 @@
 		<script type="text/javascript" src="/js/rMateChartH5/JS/rMateChartH5.js"></script>
 		<script type="text/javascript" src="/js/rMateChartH5/Assets/Theme/theme.js"></script>
 		<link rel="stylesheet" type="text/css" href="/js/rMateChartH5/Assets/Css/rMateChartH5.css"/>
-		<script language="javascript" type="text/javascript" src="/js/rMateChartH5/LicenseKey/rMateChartH5License.js?ver=20260714143213"></script>
+		<script language="javascript" type="text/javascript" src="/js/rMateChartH5/LicenseKey/rMateChartH5License.js?ver=20260714143246"></script>
 
 		
 		
@@ -83,8 +88,8 @@
 		<!-- 개발 스크립트 소스 -->
 		<script src="/developerJs/developer.js"></script>
 		<script src="/developerJs/Basic.js"></script>
-		<script src="/developerJs/dev_leb.js?ver=20260714143213"></script>
-		<script src="/developerJs/dev_pjm.js?ver=20260714143213"></script>
+		<script src="/developerJs/dev_leb.js?ver=20260714143246"></script>
+		<script src="/developerJs/dev_pjm.js?ver=20260714143246"></script>
 		<script src="/developerJs/dev_sjd.js"></script>
 		
 
@@ -570,7 +575,7 @@
 				function checkAPI(){
 					var host='www.kdic.or.kr';
 					var port="443";
-					var pageUrl="/sp/dpstrprot/ProtSystProtLmts/selectScrn.do";
+					var pageUrl="/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do";
 					var loginId="192.168.80.11";
 					var ip="192.168.80.11";
 
@@ -605,7 +610,7 @@
 				}
 
 				$( document ).ready(function() {
-					var chkPage = "/sp/dpstrprot/ProtSystProtLmts/selectScrn.do";
+					var chkPage = "/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do";
 
 					checkAPI();
 					if(chkPage != "/") {
@@ -30386,10 +30391,10 @@
 						
 						<li>
 							<div class="ulSelectBox">
-								<a href="/sp/dpstrprot/ProtSystProtLmts/selectScrn.do" target="_SELF">
-									<strong>
-									보호한도
-									</strong>
+								<a href="/sp/dpstrprot/DpsmIbamtExpln/selectScrn.do" target="_SELF">
+									
+									예금보험금 안내
+									
 								</a>
 								<ul>
 									
@@ -30401,11 +30406,11 @@
 											<a href="/sp/dpstrprot/selectProtSystProtSumr.do" target="_SELF">보호대상</a>
 										</li>
 				            		
-										<li class="curr">
+										<li class="">
 											<a href="/sp/dpstrprot/ProtSystProtLmts/selectScrn.do" target="_SELF">보호한도</a>
 										</li>
 				            		
-										<li class="">
+										<li class="curr">
 											<a href="/sp/dpstrprot/DpsmIbamtExpln/selectScrn.do" target="_SELF">예금보험금 안내</a>
 										</li>
 				            		
@@ -30430,6 +30435,40 @@
 						</li>
 	            	
             	
+            		
+            		
+	            	
+						
+						<li>
+							<div class="ulSelectBox">
+								<a href="/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do" target="_SELF">
+									<strong>
+									보험금 지급대상 금융회사
+									</strong>
+								</a>
+								<ul>
+									
+										<li class="">
+											<a href="/sp/dpstrprot/DpsmIbamtExpln/selectScrn.do" target="_SELF">예금보험금이란?</a>
+										</li>
+				            		
+										<li class="">
+											<a href="/sp/dpstrprot/DpsmIbamtAplyProc/selectScrn.do" target="_SELF">예금보험금 신청 절차</a>
+										</li>
+				            		
+										<li class="">
+											<a href="/sp/dpstrprot/DpsmIbamtAplyPossDcmnt/selectScrn.do" target="_SELF">신청시 구비서류</a>
+										</li>
+				            		
+										<li class="curr">
+											<a href="/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do" target="_SELF">보험금 지급대상 금융회사</a>
+										</li>
+				            		
+            					</ul>
+							</div>
+						</li>
+	            	
+            	
             	
                 
             
@@ -30442,7 +30481,7 @@
 
 	<script>
 	    $(window).on("load", function(){
-	        $("title").text("보호한도 &lt; 예금자보호제도 &lt; 제도·정책 &lt; 예금보험공사".replaceAll("&lt;","<").replaceAll("&gt;",">"));
+	        $("title").text("보험금 지급대상 금융회사 &lt; 예금보험금 안내 &lt; 예금자보호제도 &lt; 제도·정책 &lt; 예금보험공사".replaceAll("&lt;","<").replaceAll("&gt;",">"));
 	    })
 	</script>
 				
@@ -30453,10 +30492,44 @@
 
 
 
+<script>
+/*검색*/
+	function doSrchForm(){
+		$("#srchForm").attr("method", "post");
+		$("#srchForm").attr("action", '/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do');
+		$("#srchForm").submit();
+	}
 
+	/*검색 초기화*/
+	function initSrchForm(id){
+		$("#"+id).find("input[name]").each(function(){
+			var $el = $(this)
+			if($(this).attr("type") == "checkbox"){
+				$(this).prop("checked", false);
+			} else if($(this).attr("type") == "text"){
+				$(this).val("");
+			} else if($(this).attr("type") == "radio"){
+				$(this).prop("selected", false);
+			}
+		});
+		$("#"+id).find("select").each(function(){
+			$(this).val("");
+		});
+		doSrchForm();
+	}
+
+	/* 상세페이지 이동*/
+	function detailView(insacdFnstRegSn, infnstCd) {
+		$("#srchForm").attr("method", "post");
+		$("#srchForm").append($('<input/>', {type: 'hidden', name: 'infnstCd', value: infnstCd}));
+		$("#srchForm").append($('<input/>', {type: 'hidden', name: 'insacdFnstRegSn', value: insacdFnstRegSn}));
+		$("#srchForm").attr("action",  '/sp/dpstrprot/selectGiveTrgtFnstSrchList.do');
+		$("#srchForm").submit();
+	}
+</script>
 <!-- pageTit -->
         <div class="pageTit">
-            <h2>보호한도</h2>
+			<h2>예금보험금 지급대상 금융회사</h2>
             
 <div class="snsList">
     <a href="javascript:void(0);" class="snsBtn">sns 목록 열기</a>
@@ -30482,38 +30555,288 @@
         <!--// pageTit -->
 		<!-- contents -->
 		<div class="contents">
-
-            <!-- lineBox -->
-			<div class="lineBox">
-				<p class="cBlue">예금자보호제도는 다수의 소액예금자를 우선 보호하고 부실 금융회사를 선택한 예금자도 일정부분 책임을 분담한다는 차원에서 예금의 전액을 보호하지 않고 일정액만을 보호하고 있습니다.</p>
-				<span class="cGray6">원금과 소정이자를 합하여 1인당 1억원까지만 보호되며 초과금액은 보호되지 않습니다.</span>
+			<!-- lineBox -->
+            <div class="lineBox">
+                <p class="cBlue">
+					본 메뉴에서는 예금보험금 지급대상 금융회사를 검색하실 수 있습니다.
+					단, 검색하신 금융회사가 파산상태이거나 해당내용이 없는 경우에는 [파산재단 현황]에서 더 자세한 정보를 확인하시기 바랍니다.
+				</p>
+                <span class="cGray6">한편 예금보험금 지급은 예금보험금지급 개시일로부터 5년간 지급이 가능함을 알려드립니다.</span>
+            </div>
+            <!--// lineBox -->
+			<!-- conSrchBox -->
+			<form id="srchForm" method="post">
+			<div class="conSrchBox">
+				<strong class="hide">금융권역, 회사명 검색하기</strong>
+				<div class="srchInput">
+					<div>
+						<dl>
+							<dt><span>금융권역</span></dt>
+							<dd>
+								<p>
+									<!-- <label for="fncSareaCd" style="display: none;">금융권역 선택</label> -->
+									<select title="금융권역 선택" id="fncSareaCd" name="fncSareaCd">
+										<option value="">전체</option>
+										
+			                            	<option value="01" >은행</option>
+			                            
+			                            	<option value="02" >종합금융회사</option>
+			                            
+			                            	<option value="04" >생명보험회사</option>
+			                            
+			                            	<option value="05" >손해보험회사</option>
+			                            
+			                            	<option value="06" >투자매매업자ㆍ투자중개업자</option>
+			                            
+			                            	<option value="07" >상호저축은행</option>
+			                            
+			                            	<option value="08" >신용협동조합</option>
+			                            
+									</select>
+								</p>
+							</dd>
+						</dl>
+					</div>
+					<div>
+						<dl>
+							<dt><span>회사명</span></dt>
+							<dd>
+                    			<div class="flex moBlock txtC">
+			                        <p>
+			                        	<!-- <label for="searchInfnstNm" style="display: none;">회사명 입력</label> -->
+			                        	<input type="text" id="searchInfnstNm"  name="searchInfnstNm" title="회사명 입력" placeholder="회사명 입력" value="">
+		                        	</p>
+			                        <button type="button" class="btn btnIco btnBlue" onClick="javascript:doSrchForm();"><span class="search">검색</span></button>
+			                        <button type="button" class="btn btnIco btnGrayC" onClick="javascript:initSrchForm('srchForm');"><span class="refresh cGray3">초기화</span></button>
+			                    </div>
+							</dd>
+						</dl>
+					</div>
+				</div>
 			</div>
-			<!--// lineBox -->
+			</form>
+			<!--// conSrchBox -->
 
-            <!-- textBox -->
-            <div class="textBox">
-                예금보험에 가입한 금융회사에 예금등 채권의 지급정지 등 예금자보호법상 보험사고<span class="cirNum green">1<span class="hide">아래 도움말 참조</span></span>가 발생한  시점에 해당 금융회사에 예금 등 보호대상 금융상품을 보유하고 있다면 원금과 소정의 이자<span class="cirNum green">2<span class="hide">아래 도움말 참조</span></span>를 합쳐 금융회사별로 1인당 1억원까지 보호됩니다.
-				<br/><br/>
-				예금 등 보호대상 금융상품으로 운용되는 확정기여형퇴직연금(DC형), 개인형퇴직연금(IRP), 중소기업퇴직연금기금의 적립금<span class="cirNum green">3<span class="hide">아래 도움말 참조</span></span>과 연금저축(신탁·보험), 사고보험금 각각에 대하여는 일반 예금등 보호대상 금융상품과 분리하여 별도로 가입자<span class="cirNum green">4<span class="hide">아래 도움말 참조</span></span> 1인당 1억원까지 보호됩니다.
-				<br/><br/>
-				※ 예금보험공사로부터 예금보험금 지급을 통해 보호받지 못한 나머지 예금등 채권은 파산한 금융회사가 선순위채권을 변제하고 남는 재산이 있는 경우 이를 다른 채권자들과 함께 채권액에 비례하여 분배받음으로써 그 전부 또는 일부를 돌려받을 수 있습니다. 또한 앞에서 설명한 보호금액 1억원(외화예금 포함)은 예금의 종류별 또는 지점별 보호금액이 아니라 동일한 금융회사 내에서 예금자 1인이 보호받을 수 있는 총금액입니다. 이때, 예금자 1인이라함은 개인뿐만 아니라 법인도 대상이 되며, 예금의 지급이 정지되거나 파산한 금융회사의 예금자가 해당 금융회사에 대출이 있는 경우에는 예금에서 대출금을 먼저 상환(상계)시키고 남은 예금을 기준으로 보호합니다.
-            </div>
-            <!--// textBox -->
+            <!-- rowTable -->
+			<div class="table rowTable mScrollTable txtC">
+				<p class="mScrollInfo">좌우로 움직여보세요</p>
+				<table>
+					<caption>금융권역, 금융회사명, 상태, 보험사고일, 보험지급개시일, 연락처 항목으로 구성된 예금보험금 지급대상 금융회사 정보 표</caption>
+					<colgroup>
+						<col style="width:20%">
+						<col style="width:auto">
+						<col style="width:12%">
+						<col style="width:13%">
+						<col style="width:13%">
+						<col style="width:15%">
+					</colgroup>
+					<thead>
+						<tr>
+							<th scope="col">금융권역</th>
+							<th scope="col">금융회사명</th>
+							<th scope="col">상태</th>
+							<th scope="col">보험사고일</th>
+							<th scope="col">보험지급개시일</th>
+							<th scope="col">연락처</th>
+						</tr>
+					</thead>
+					<tbody>
+						
+                    	
+		                    
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10535, '0010583'); return false;">으뜸</a></td>
+									<td>파산</td>
+									<td>2009-08-11</td>
+									<td>2009-11-23</td>
+									<td>064-750-3000</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10534, '0010519'); return false;">전북</a></td>
+									<td>파산</td>
+									<td>2008-12-26</td>
+									<td>2009-04-06</td>
+									<td>063-288-7966</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10533, '0010524'); return false;">현대</a></td>
+									<td>파산</td>
+									<td>2008-03-24</td>
+									<td>2008-07-14</td>
+									<td>063-232-7111</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10532, '0010474'); return false;">분당</a></td>
+									<td>파산</td>
+									<td>2008-02-21</td>
+									<td>2008-05-26</td>
+									<td>031-445-2990</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10531, '0010567'); return false;">경북</a></td>
+									<td>파산</td>
+									<td>2007-05-25</td>
+									<td>2007-12-24</td>
+									<td>053-256-9609~10</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10530, '0010546'); return false;">홍익</a></td>
+									<td>파산</td>
+									<td>2007-03-16</td>
+									<td>2007-07-23</td>
+									<td>062-368-6510~1</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10529, '0010538'); return false;">대운</a></td>
+									<td>파산</td>
+									<td>2007-01-19</td>
+									<td>2007-05-28</td>
+									<td>062-352-9401~3</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10528, '0010470'); return false;">좋은</a></td>
+									<td>파산</td>
+									<td>2006-09-08</td>
+									<td>2007-03-19</td>
+									<td>031-445-1771</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10527, '0010406'); return false;">인베스트</a></td>
+									<td>파산</td>
+									<td>2005-07-22</td>
+									<td>2006-05-25</td>
+									<td>051-290-7530</td>
+								</tr>
+							
+								<tr>
+									<td>상호저축은행</td>
+									<td><a href="javascript:void(0);" onclick="detailView(10526, '0010393'); return false;">플러스</a></td>
+									<td>파산</td>
+									<td>2005-01-28</td>
+									<td>2006-02-28</td>
+									<td>051-463-0808/051-462-8002</td>
+								</tr>
+							
+						
+					</tbody>
+				</table>
+			</div>
+            <!--// rowTable -->
+
+			<!-- paging -->
 			
-            <!-- greenBox -->
-            <div class="greenBox">
-                <p class="tit">도움말(각주설명)</p>
-                <!-- cirNumList -->
-                <ol class="cirNumList green">
-                    <li><span>1</span> <span class="cBlack">보험사고</span> : 예금보험에 가입한 금융회사의 예금등 채권의 지급정지나 영업 인가·허가의 취소, 해산결의 또는 파산선고 등의 사유로 예금등 채권을 지급할 수 없는 상황
-						1억원 이하 예금자는 기존 계약조건 대로 계약인수금융회사와 계속 거래하실 수 있습니다.(다만, 계약인수금융회사와의 협의 결과에 따라 인수 조건은 달라질 수 있습니다.)</li>
-                    <li><span>2</span> <span class="cBlack">이자</span> : 약정이자와 공사 결정이자(예금보험공사가 시중은행 1년만기 정기예금의 평균금리를 감안하여 정한 이자) 중 적은 금액</li>
-                    <li><span>3</span> <span class="cBlack">적립금</span> : 퇴직보험, 퇴직일시금신탁 포함</li>
-					<li><span>4</span> <span class="cBlack">가입자</span> : 퇴직보험, 퇴직일시금신탁의 피보험자 또는 수익자 포함</li>
-                </ol>
-                <!--// cirNumList -->
-            </div>
-            <!--// greenBox -->
+
+
+
+
+
+
+
+
+<!--
+@param curPage = 현재 페이지 번호
+@param pageSize = 한 페이지당 게시물 수
+@param pageUnit = 한 화면당 페이지 수
+@param totalCnt : 총 게시물 수
+//-->
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+
+
+	
+	
+	
+	
+	
+	<script>
+		function chgPagingNo(pageNo) {
+			if($("#srchForm").find("input[name='curPage']").length > 0){
+				$("#srchForm input[name='curPage']").val(pageNo);
+			} else {
+				$("#srchForm").append($('<input/>', {type: 'hidden', name: 'curPage', value: pageNo}));
+			}
+
+			if($("#srchForm").find("input[name='pageSize']").length > 0){
+				$("#srchForm input[name='pageSize']").val('10');
+			} else {
+				$("#srchForm").append($('<input/>', {type: 'hidden', name: 'pageSize', value: '10'}));
+			}
+
+			doSrchForm();
+		}
+	</script>
+
+	<!-- paging -->
+	<div class="paging">
+	    <div class="inBox">
+	    	
+	        <a href="javascript:void(0);" onClick="chgPagingNo(0);" class="btnFirst">첫 페이지</a>
+	        <a href="javascript:void(0);" onClick="chgPagingNo(2);" class="btnPrev">이전 페이지</a>
+	        
+	        <div>
+	        	
+					
+					
+			            <a href="javascript:void(0);" onClick="chgPagingNo(0);">1</a>
+					
+	        	
+					
+					
+			            <a href="javascript:void(0);" onClick="chgPagingNo(1);">2</a>
+					
+	        	
+					
+					
+			            <a href="javascript:void(0);" onClick="chgPagingNo(2);">3</a>
+					
+	        	
+					
+			            <strong title="현재 페이지"><span>4</span></strong>
+					
+					
+	        	
+					
+					
+			            <a href="javascript:void(0);" onClick="chgPagingNo(4);">5</a>
+					
+	        	
+	        </div>
+	        
+	        <a href="javascript:void(0);" onClick="chgPagingNo(4);" class="btnNext">다음 페이지</a>
+	        <a href="javascript:void(0);" onClick="chgPagingNo(4);" class="btnLast">마지막 페이지</a>
+	        
+	    </div>
+	</div>
+	<!--// paging -->
+
+			<!--// paging -->
 
 			
 

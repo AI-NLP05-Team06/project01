@@ -1,5 +1,5 @@
 ﻿url_id,business_function,page_title,status,quality_status,quality_reasons,retention_ratio,content_chars,faq_count,table_count,attachment_button_count,attachment_count,image_count,asset_failure_count,error_type,error
-DP-001,예금자보호제도,보호한도,parse_success,pass,,0.965,1119,0.0,0.0,0.0,0,0,0,,
+DP-001,예금자보호제도,보호한도,parse_success,pass,,0.965,1118,0.0,0.0,0.0,0,0,0,,
 DP-002,예금자보호제도,예금자보호제도,parse_success,pass,,1.0,740,0.0,0.0,0.0,0,1,0,,
 DP-003,예금자보호제도,보호대상 > 금융회사 > 개요,parse_success,pass,,1.062,1077,0.0,1.0,3.0,3,0,0,,
 DP-004,예금자보호제도,보호대상 > 금융상품 > 개요,parse_success,pass,,1.101,2536,0.0,1.0,0.0,0,0,0,,
@@ -8,7 +8,7 @@ DP-006,예금자보호제도,예금자보호제도 FAQ,parse_success,pass,,0.963
 BI-001,예금보험금 안내,예금보험금 안내 > 신청시 구비서류,parse_success,pass,,0.99,2334,0.0,0.0,10.0,10,0,0,,
 BI-002,예금보험금 안내,예금보험금 신청 절차 > 예금보험금 신청절차,parse_success,pass,,0.981,1219,0.0,0.0,0.0,0,0,0,,
 BI-003,예금보험금 안내,예금보험금이란?,parse_success,pass,,0.992,2383,0.0,0.0,0.0,0,0,0,,
-BI-004,예금보험금 안내,예금보험금 안내 > 보험금 지급대상 금융회사,dynamic_diagnostic_created,pass,,0.902,782,0.0,1.0,0.0,0,0,0,,
+BI-004,예금보험금 안내,예금보험금 안내 > 보험금 지급대상 금융회사,dynamic_full_collection_created,pass,,0.902,2575,0.0,1.0,0.0,0,0,0,,
 UN-001,고객 미수령금 신청,미수령금 통합조회/신청 > 고객미수령금,parse_success,pass,,1.0,712,0.0,0.0,0.0,0,0,0,,
 UN-002,고객 미수령금 신청,미수령금통합신청 > 소개와 신청방법 안내 > 예금자 대상 전화문의 안내,parse_success,pass,,1.012,579,0.0,0.0,0.0,0,1,0,,
 UN-003,고객 미수령금 신청,미수령금통합신청 > 소개와 신청방법 안내 > 안내,parse_success,pass,,1.0,978,0.0,0.0,0.0,0,0,0,,
