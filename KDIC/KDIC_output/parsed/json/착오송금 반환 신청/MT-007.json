@@ -16,6 +16,8 @@
   "target_business_function": "착오송금 반환 신청",
   "page_type": "attachment_page",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금수취인"
@@ -58,17 +60,15 @@
     },
     {
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrAddrsePossDcmntGudn/selectScrn.do",
-      "anchor_text": "착오송금수취인",
-      "link_role": "content",
-      "source_tag": "a"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrAddrsePossDcmntGudn/selectScrn.do",
       "anchor_text": "HWP 착오송금액반환요구에대한 이의제기서양식 공식 다운로드 페이지",
       "link_role": "action",
       "action_type": "download",
       "source_tag": "attachment",
-      "action_id": "1ac08b57dd0cb667"
+      "action_id": "1ac08b57dd0cb667",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     },
     {
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrAddrsePossDcmntGudn/selectScrn.do",
@@ -76,7 +76,11 @@
       "link_role": "action",
       "action_type": "download",
       "source_tag": "attachment",
-      "action_id": "5a87fb970fdc48c6"
+      "action_id": "5a87fb970fdc48c6",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     },
     {
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrAddrsePossDcmntGudn/selectScrn.do",
@@ -84,7 +88,11 @@
       "link_role": "action",
       "action_type": "download",
       "source_tag": "attachment",
-      "action_id": "5154f2b5793eca16"
+      "action_id": "5154f2b5793eca16",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     },
     {
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrAddrsePossDcmntGudn/selectScrn.do",
@@ -92,7 +100,11 @@
       "link_role": "action",
       "action_type": "download",
       "source_tag": "attachment",
-      "action_id": "7103c0f0652d6ebe"
+      "action_id": "7103c0f0652d6ebe",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     }
   ],
   "actions": [
@@ -234,6 +246,8 @@
   "images": [],
   "videos": [],
   "supplementary_links": [],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "수취인 구비서류·이의제기 안내 전체",
@@ -247,9 +261,10 @@
     "attachment_user_delivery_policy": "direct_official_url_if_stable_else_source_page",
     "video_policy": "none",
     "webtoon_policy": "none",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:08:28+09:00",
+  "parsed_at": "2026-07-16T15:06:35+09:00",
   "content_markdown": "| 구분 | 온라인 신청 | 방문 신청 | 관련 서식 | 발급처 및 비고 |\n| --- | --- | --- | --- | --- |\n| 착오송금액 반환 요구에 대한 이의 제기 (착오송금 수취인) | 증명서류 파일 업로드 | 착오송금 반환요구에 대한 이의 제기서 증빙서류 | 착오송금 반환요구에 대한 이의 제기서 양식 HWP 착오송금액반환요구에대한 이의제기서양식 HWP 다운로드 PDF 착오송금액반환요구에대한 이의제기서양식 PDF 다운로드 | 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에만 신청 가능 |\n| 착오송금액 반환 관련 이체수수료 환급신청 (착오송금 수취인) | 이체확인증 파일 업로드 통장사본 파일 업로드 | 착오송금 반환 관련 이체수수료 환급신청서 이체수수료가 명시된 이체확인증 | 착오송금 반환관련 이체수수료 환급신청서 HWP 착오송금액반환관련 이체수수료환급신청서양식 HWP 다운로드 PDF 착오송금액반환관련 이체수수료환급신청서양식 PDF 다운로드 | 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에 반환시 이체수수료 발생하는 경우 자진반환 당일 즉시(온라인, 방문, 이메일, 팩스) |",
   "body_markdown": "| 구분 | 온라인 신청 | 방문 신청 | 관련 서식 | 발급처 및 비고 |\n| --- | --- | --- | --- | --- |\n| 착오송금액 반환 요구에 대한 이의 제기 (착오송금 수취인) | 증명서류 파일 업로드 | 착오송금 반환요구에 대한 이의 제기서 증빙서류 | 착오송금 반환요구에 대한 이의 제기서 양식 HWP 착오송금액반환요구에대한 이의제기서양식 HWP 다운로드 PDF 착오송금액반환요구에대한 이의제기서양식 PDF 다운로드 | 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에만 신청 가능 |\n| 착오송금액 반환 관련 이체수수료 환급신청 (착오송금 수취인) | 이체확인증 파일 업로드 통장사본 파일 업로드 | 착오송금 반환 관련 이체수수료 환급신청서 이체수수료가 명시된 이체확인증 | 착오송금 반환관련 이체수수료 환급신청서 HWP 착오송금액반환관련 이체수수료환급신청서양식 HWP 다운로드 PDF 착오송금액반환관련 이체수수료환급신청서양식 PDF 다운로드 | 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에 반환시 이체수수료 발생하는 경우 자진반환 당일 즉시(온라인, 방문, 이메일, 팩스) |",
   "content_text": "구분 온라인 신청 방문 신청 관련 서식 발급처 및 비고 착오송금액 반환 요구에 대한 이의 제기 (착오송금 수취인) 증명서류 파일 업로드 착오송금 반환요구에 대한 이의 제기서 증빙서류 착오송금 반환요구에 대한 이의 제기서 양식 HWP 착오송금액반환요구에대한 이의제기서양식 HWP 다운로드 PDF 착오송금액반환요구에대한 이의제기서양식 PDF 다운로드 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에만 신청 가능 착오송금액 반환 관련 이체수수료 환급신청 (착오송금 수취인) 이체확인증 파일 업로드 통장사본 파일 업로드 착오송금 반환 관련 이체수수료 환급신청서 이체수수료가 명시된 이체확인증 착오송금 반환관련 이체수수료 환급신청서 HWP 착오송금액반환관련 이체수수료환급신청서양식 HWP 다운로드 PDF 착오송금액반환관련 이체수수료환급신청서양식 PDF 다운로드 착오송금 수취인이 자진 반환 기한 (양도 통지서 송달 후 2주) 내에 반환시 이체수수료 발생하는 경우 자진반환 당일 즉시(온라인, 방문, 이메일, 팩스)",

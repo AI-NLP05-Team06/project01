@@ -119,6 +119,12 @@ HP-002 청크 본문 보존율,True,1.0
 HP-003 인덱싱 문서 청크 존재,True,
 HP-003 FAQ 청크 무손실,True,
 HP-003 청크 본문 보존율,True,1.0
+MT-010_rule_layer01 인덱싱 문서 청크 존재,True,
+MT-010_rule_layer01 FAQ 청크 무손실,True,
+MT-010_rule_layer01 청크 본문 보존율,True,1.0
+MT-010_operation_layer01 인덱싱 문서 청크 존재,True,
+MT-010_operation_layer01 FAQ 청크 무손실,True,
+MT-010_operation_layer01 청크 본문 보존율,True,1.0
 DP-001 1억원,True,
 UN-003 미수령금 종류,True,
 BI-004 전체 페이지,True,

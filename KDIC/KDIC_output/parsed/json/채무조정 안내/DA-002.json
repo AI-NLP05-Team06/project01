@@ -16,6 +16,8 @@
   "target_business_function": "채무조정 안내",
   "page_type": "interactive_service",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "채무조정 안내",
     "채무조정 재기지원 > 채무정보 조회 ＆ 상담신청"
@@ -69,7 +71,11 @@
       "link_role": "action",
       "action_type": "lookup",
       "source_tag": "a",
-      "action_id": "dbabaa802db9f766"
+      "action_id": "dbabaa802db9f766",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     }
   ],
   "actions": [
@@ -103,6 +109,8 @@
   ],
   "videos": [],
   "supplementary_links": [],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_partial",
     "content_scope": "조회·상담 이용방법과 대상만 인덱싱",
@@ -116,9 +124,10 @@
     "attachment_user_delivery_policy": "none",
     "video_policy": "none",
     "webtoon_policy": "none",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:09:07+09:00",
+  "parsed_at": "2026-07-16T15:07:20+09:00",
   "content_markdown": "### 채무 정보 조회\n\n간단한 본인인증 절차를 통해 파산금융회사 및 ㈜케이알앤씨에 채무가 있는지 확인하실 수 있습니다.\n\n채무정보 조회하기\n\n### 채무조정 상담 신청\n\n채무 정보 조회 결과 파산금융회사 및 ㈜케이알앤씨에 채무가 있으신 경우 채무조정 상담을 온라인으로 신청하실 수 있습니다. 채무조정 상담을 신청하신 분께는 담당자가 직접 유선으로 연락하여 상담을 진행하게 됩니다.\n\n### 채무정보 조회 및 채무조정 상담 신청 방법\n1. 홈페이지 접속 후 '채무정보 조회하기'클릭\n2. 간편인증 등 본인확인\n3. '상담신청' 클릭\n4. 본인 연락처, 이메일 입력\n5. 담당자의 연락 및 상담",
   "body_markdown": "### 채무 정보 조회\n\n간단한 본인인증 절차를 통해 파산금융회사 및 ㈜케이알앤씨에 채무가 있는지 확인하실 수 있습니다.\n\n채무정보 조회하기\n\n### 채무조정 상담 신청\n\n채무 정보 조회 결과 파산금융회사 및 ㈜케이알앤씨에 채무가 있으신 경우 채무조정 상담을 온라인으로 신청하실 수 있습니다. 채무조정 상담을 신청하신 분께는 담당자가 직접 유선으로 연락하여 상담을 진행하게 됩니다.\n\n### 채무정보 조회 및 채무조정 상담 신청 방법\n1. 홈페이지 접속 후 '채무정보 조회하기'클릭\n2. 간편인증 등 본인확인\n3. '상담신청' 클릭\n4. 본인 연락처, 이메일 입력\n5. 담당자의 연락 및 상담",
   "content_text": "채무 정보 조회 간단한 본인인증 절차를 통해 파산금융회사 및 ㈜케이알앤씨에 채무가 있는지 확인하실 수 있습니다. 채무정보 조회하기 채무조정 상담 신청 채무 정보 조회 결과 파산금융회사 및 ㈜케이알앤씨에 채무가 있으신 경우 채무조정 상담을 온라인으로 신청하실 수 있습니다. 채무조정 상담을 신청하신 분께는 담당자가 직접 유선으로 연락하여 상담을 진행하게 됩니다. 채무정보 조회 및 채무조정 상담 신청 방법 홈페이지 접속 후 '채무정보 조회하기'클릭 간편인증 등 본인확인 '상담신청' 클릭 본인 연락처, 이메일 입력 담당자의 연락 및 상담",

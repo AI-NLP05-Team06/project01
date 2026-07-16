@@ -16,6 +16,8 @@
   "target_business_function": "착오송금 반환 신청",
   "page_type": "process_page",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금반환지원 > 소개와 방법안내 > 반환지원절차"
@@ -79,6 +81,8 @@
       "notice": "웹툰은 참고용 시각 자료이며 금액·신청 조건은 현재 공식 본문을 우선합니다."
     }
   ],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_full_filtered",
     "content_scope": "현재 절차 설명은 인덱싱, 구버전 웹툰 금액 문구는 비인덱싱",
@@ -92,9 +96,10 @@
     "attachment_user_delivery_policy": "none",
     "video_policy": "none",
     "webtoon_policy": "reference_only_official_page",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:08:35+09:00",
+  "parsed_at": "2026-07-16T15:06:44+09:00",
   "excluded_content": [
     {
       "reason": "웹툰 참고 링크 전용 정책",

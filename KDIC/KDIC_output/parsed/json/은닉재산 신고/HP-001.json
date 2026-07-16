@@ -16,6 +16,8 @@
   "target_business_function": "은닉재산 신고",
   "page_type": "static_page",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "은닉재산 신고",
     "지원자금관리 > 부실책임조사 > 금융부실관련자 은닉재산신고 > 신고센터"
@@ -186,8 +188,14 @@
     {
       "url": "https://www.kdic.or.kr/sp/sprtfund/SprtCncmDclrInqGudn/selectScrn.do",
       "anchor_text": "신고 및 조회 바로가기",
-      "link_role": "content",
-      "source_tag": "a"
+      "link_role": "action",
+      "action_type": "report",
+      "source_tag": "a",
+      "action_id": "00d89f5346bbab15",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     },
     {
       "url": "https://www.kdic.or.kr/sp/sprtfund/SprtCncmDclrInqGudn/selectScrn.do",
@@ -195,7 +203,11 @@
       "link_role": "action",
       "action_type": "progress",
       "source_tag": "button",
-      "action_id": "f3e1b3af1f1f0ca7"
+      "action_id": "f3e1b3af1f1f0ca7",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     }
   ],
   "actions": [
@@ -265,6 +277,8 @@
   ],
   "videos": [],
   "supplementary_links": [],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "은닉재산 신고대상·포상금·신고방법 전체",
@@ -278,9 +292,10 @@
     "attachment_user_delivery_policy": "none",
     "video_policy": "none",
     "webtoon_policy": "none",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:09:46+09:00",
+  "parsed_at": "2026-07-16T15:08:00+09:00",
   "excluded_content": [
     {
       "reason": "포상금 자동계산기 실행 전 초기값 표",

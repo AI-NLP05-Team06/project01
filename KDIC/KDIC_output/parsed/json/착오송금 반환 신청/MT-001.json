@@ -16,6 +16,8 @@
   "target_business_function": "착오송금 반환 신청",
   "page_type": "video_page",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 제도란"
@@ -78,6 +80,8 @@
       "notice": "영상은 이해를 돕는 참고 자료이며 최신 제도 답변의 직접 근거로 사용하지 않습니다."
     }
   ],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "제도 소개 본문 전체, 영상은 메타데이터",
@@ -91,9 +95,10 @@
     "attachment_user_delivery_policy": "none",
     "video_policy": "reference_only_official_page",
     "webtoon_policy": "none",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:07:59+09:00",
+  "parsed_at": "2026-07-16T15:06:05+09:00",
   "content_markdown": "### 제도 소개 안내영상\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
   "body_markdown": "### 제도 소개 안내영상\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
   "content_text": "제도 소개 안내영상 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",

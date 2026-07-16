@@ -28,7 +28,11 @@
       "link_role": "action",
       "action_type": "self_check",
       "source_tag": "source_page",
-      "action_id": "376904c9512afda0"
+      "action_id": "376904c9512afda0",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     }
   ],
   "actions": [
@@ -61,7 +65,7 @@
     "reasons": [],
     "action_count": 1
   },
-  "parsed_at": "2026-07-16T14:08:54+09:00",
+  "parsed_at": "2026-07-16T15:07:04+09:00",
   "markdown_export": "# 착오송금 반환지원 신청대상 자가진단\n\n## 공식 바로가기\n\n- [착오송금 반환지원 신청대상 자가진단](https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do) — self_check",
   "export_markdown": "# 착오송금 반환지원 신청대상 자가진단\n\n## 공식 바로가기\n\n- [착오송금 반환지원 신청대상 자가진단](https://fins.kdic.or.kr/ir/msdrpr/selectAplyQlfcIdntyRslt.do) — self_check"
 }

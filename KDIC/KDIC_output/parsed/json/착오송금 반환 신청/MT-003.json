@@ -16,6 +16,8 @@
   "target_business_function": "착오송금 반환 신청",
   "page_type": "static_page",
   "parser_profile": "kdic_final_integrated_v4",
+  "resource_group_selector": "",
+  "resource_group_chunk_policy": "page",
   "breadcrumb": [
     "착오송금 반환 신청",
     "착오송금 반환지원제도 > 착오송금반환지원 신청방법"
@@ -34,23 +36,15 @@
   "links": [
     {
       "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsStutChc/selectScrn.do",
-      "anchor_text": "온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치",
-      "link_role": "content",
-      "source_tag": "a"
-    },
-    {
-      "url": "https://www.kdic.or.kr/di/pbcritrd/PbcrPath/selectScrn.do",
-      "anchor_text": "방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
-      "link_role": "content",
-      "source_tag": "a"
-    },
-    {
-      "url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsStutChc/selectScrn.do",
       "anchor_text": "착오송금 반환지원 온라인 신청",
       "link_role": "action",
       "action_type": "apply",
       "source_tag": "a",
-      "action_id": "89b5f4ab682d0723"
+      "action_id": "89b5f4ab682d0723",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     },
     {
       "url": "https://www.kdic.or.kr/di/pbcritrd/PbcrPath/selectScrn.do",
@@ -58,7 +52,11 @@
       "link_role": "action",
       "action_type": "apply",
       "source_tag": "a",
-      "action_id": "865fe57c4dd01231"
+      "action_id": "865fe57c4dd01231",
+      "resource_group_id": "",
+      "interaction_type": "navigate",
+      "target_layer_id": "",
+      "target_document_id": ""
     }
   ],
   "actions": [
@@ -91,6 +89,8 @@
   "images": [],
   "videos": [],
   "supplementary_links": [],
+  "embedded_document_ids": [],
+  "modal_resources": [],
   "policy": {
     "normalized_decision": "include_full",
     "content_scope": "온라인·방문 신청방법 전체",
@@ -104,9 +104,10 @@
     "attachment_user_delivery_policy": "none",
     "video_policy": "none",
     "webtoon_policy": "none",
-    "image_policy": "metadata_only_nondecorative"
+    "image_policy": "metadata_only_nondecorative",
+    "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T14:08:10+09:00",
+  "parsed_at": "2026-07-16T15:06:16+09:00",
   "content_markdown": "### 신청방법\n\n온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치 방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
   "body_markdown": "### 신청방법\n\n온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치 방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
   "content_text": "신청방법 온라인 신청 사이트 : fins.kdic.or.kr (상단 아이콘 클릭 시 사이트 연결) 접속방법 : PC (모바일은 추후 지원 예정) 준비물 : 공동인증서, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인 예금보험공사 핵심가치 방문 신청 주소 : 서울시 중구 청계천로 30 1층 (상단 아이콘 클릭시 지도 연결) 연락처 : 1588-0037 준비물 : 신분증, 이체(송금)확인증* * 본인 신청이 아닌 경우, 구비서류 확인",
