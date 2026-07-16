@@ -1,0 +1,179 @@
+{
+  "final_url": "https://www.kdic.or.kr/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do",
+  "forms": [
+    {
+      "form_index": 1,
+      "method": "GET",
+      "action": "https://www.kdic.or.kr/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do",
+      "id": "pageMoveForm",
+      "name": "",
+      "inputs": []
+    },
+    {
+      "form_index": 2,
+      "method": "POST",
+      "action": "https://www.kdic.or.kr/cm/srch/selectPbcrHmpgSrch.do",
+      "id": "itgrSrchForm",
+      "name": "",
+      "inputs": [
+        {
+          "tag": "input",
+          "name": "srchPeriod",
+          "type": "hidden",
+          "value": "0"
+        },
+        {
+          "tag": "input",
+          "name": "listCount",
+          "type": "hidden",
+          "value": "10"
+        },
+        {
+          "tag": "select",
+          "name": "collection",
+          "type": "select",
+          "value": "",
+          "options": [
+            {
+              "value": "ALL",
+              "text": "전체"
+            },
+            {
+              "value": "WHP_DPSTRPROT",
+              "text": "예금자보호제도"
+            },
+            {
+              "value": "WHP_DPSMPRMFEE",
+              "text": "예금보험료안내"
+            },
+            {
+              "value": "WHP_SPRTFUND",
+              "text": "공적자금관리"
+            },
+            {
+              "value": "WHP_PBCRITRD",
+              "text": "공사소개"
+            },
+            {
+              "value": "WHP_RSCCTR",
+              "text": "자료실"
+            },
+            {
+              "value": "WHP_BZPBLNT",
+              "text": "경영공시"
+            }
+          ]
+        },
+        {
+          "tag": "input",
+          "name": "query",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "tag": "button",
+          "name": "",
+          "type": "button",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "form_index": 3,
+      "method": "POST",
+      "action": "https://www.kdic.or.kr/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do",
+      "id": "srchForm",
+      "name": "",
+      "inputs": [
+        {
+          "tag": "select",
+          "name": "fncSareaCd",
+          "type": "select",
+          "value": "",
+          "options": [
+            {
+              "value": "",
+              "text": "전체"
+            },
+            {
+              "value": "01",
+              "text": "은행"
+            },
+            {
+              "value": "02",
+              "text": "종합금융회사"
+            },
+            {
+              "value": "04",
+              "text": "생명보험회사"
+            },
+            {
+              "value": "05",
+              "text": "손해보험회사"
+            },
+            {
+              "value": "06",
+              "text": "투자매매업자ㆍ투자중개업자"
+            },
+            {
+              "value": "07",
+              "text": "상호저축은행"
+            },
+            {
+              "value": "08",
+              "text": "신용협동조합"
+            }
+          ]
+        },
+        {
+          "tag": "input",
+          "name": "searchInfnstNm",
+          "type": "text",
+          "value": ""
+        },
+        {
+          "tag": "button",
+          "name": "",
+          "type": "button",
+          "value": ""
+        },
+        {
+          "tag": "button",
+          "name": "",
+          "type": "button",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "script_sources": [
+    "https://www.kdic.or.kr/assets/js/jquery-3.6.3.js",
+    "https://www.kdic.or.kr/assets/js/jquery-ui.js",
+    "https://www.kdic.or.kr/assets/js/scrollbar.js",
+    "https://www.kdic.or.kr/assets/js/swiper.js",
+    "https://www.kdic.or.kr/assets/js/common.js",
+    "https://www.kdic.or.kr/emgCntn/assets/js/tracerapi.js",
+    "https://www.kdic.or.kr/docubraille-1.5/js/docubraille-env-1.5.js",
+    "https://www.kdic.or.kr/docubraille-1.5/js/docubraille-1.5.min.js",
+    "https://www.kdic.or.kr/docubraille-1.5/js/docubraille-kdic.js",
+    "https://www.kdic.or.kr/js/rMateChartH5/JS/rMateChartH5.js",
+    "https://www.kdic.or.kr/js/rMateChartH5/Assets/Theme/theme.js",
+    "https://www.kdic.or.kr/js/rMateChartH5/LicenseKey/rMateChartH5License.js?ver=20260713161020",
+    "https://www.kdic.or.kr/developerJs/developer.js",
+    "https://www.kdic.or.kr/developerJs/Basic.js",
+    "https://www.kdic.or.kr/developerJs/dev_leb.js?ver=20260713161020",
+    "https://www.kdic.or.kr/developerJs/dev_pjm.js?ver=20260713161020",
+    "https://www.kdic.or.kr/developerJs/dev_sjd.js"
+  ],
+  "inline_script_hints": [
+    "window.onload = function(){\n\t\t\t\t\tcheckAPI();\n\t\t\t\t}\n\n\t\t\t\tfunction checkAPI(){\n\t\t\t\t\tvar host='www.kdic.or.kr';\n\t\t\t\t\tvar port=\"443\";\n\t\t\t\t\tvar pageUrl=\"/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do\";\n\t\t\t\t\tvar loginId=\"192.168.80.11\";\n\t\t\t\t\tvar ip=\"192.168.80.11\";\n\n\t\t\t\t\tcallTracerApiInput(host, ip, loginId, port, pageUrl, this);\n\t\t\t\t}\n\n\t\t\t\tfunction callBackTracer(){\n\t\t\t\t\t/*접속자 순서가 되었을때 처리*/\n\t\t\t\t}\n\n\t\t\t\tfunction showRealPage(){\n\t\t\t\t\t/*기본: 공통, 각 업무별 레이아웃이 다를수 있어, 각기제공함*/\n\t\t\t\t\t$(\"#waitPage\").css(\"display\", \"none\");\n\t\t\t\t}\n\n\t\t\t\tfunction showWaitPage(type){\n\t\t\t\t\tconsole.log(type);\n\t\t\t\t\t/*기본: 공통, 각 업무별 레이아웃이 다를수 있어, 각기제공함*/\n\t\t\t\t\t$(\"#waitPage\").css(\"display\", \"block\");\n\n\t\t\t\t\t$(\"#cntnWtng\").css(\"display\", \"none\");\n\t\t\t\t\t$(\"#cntnBlock\").css(\"display\", \"none\");\n\t\t\t\t\t$(\"#cntnImpo\").css(\"display\", \"none\");\n\n\t\t\t\t\tif(type == \"W\"){\n\t\t\t\t\t\t$(\"#cntnWtng\").css(\"display\", \"block\");\n\t\t\t\t\t} else if(type == \"NE\"){\n\t\t\t\t\t\t$(\"#cntnImpo\").css(\"display\", \"block\");\n\t\t\t\t\t} else if(type == \"R\"){\n\t\t\t\t\t\t$(\"#cntnBlock\").css(\"display\", \"block\");\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t$( document ).ready(function() {\n\t\t\t\t\tvar chkPage = \"/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do\";\n\n\t\t\t\t\tcheckAPI();\n\t\t\t\t\tif(chkPage != \"/\") {\n\t\t\t\t\t\tcheckUser",
+    "/*검색*/\n\tfunction doSrchForm(){\n\t\t$(\"#srchForm\").attr(\"method\", \"post\");\n\t\t$(\"#srchForm\").attr(\"action\", '/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do');\n\t\t$(\"#srchForm\").submit();\n\t}\n\n\t/*검색 초기화*/\n\tfunction initSrchForm(id){\n\t\t$(\"#\"+id).find(\"input[name]\").each(function(){\n\t\t\tvar $el = $(this)\n\t\t\tif($(this).attr(\"type\") == \"checkbox\"){\n\t\t\t\t$(this).prop(\"checked\", false);\n\t\t\t} else if($(this).attr(\"type\") == \"text\"){\n\t\t\t\t$(this).val(\"\");\n\t\t\t} else if($(this).attr(\"type\") == \"radio\"){\n\t\t\t\t$(this).prop(\"selected\", false);\n\t\t\t}\n\t\t});\n\t\t$(\"#\"+id).find(\"select\").each(function(){\n\t\t\t$(this).val(\"\");\n\t\t});\n\t\tdoSrchForm();\n\t}\n\n\t/* 상세페이지 이동*/\n\tfunction detailView(insacdFnstRegSn, infnstCd) {\n\t\t$(\"#srchForm\").attr(\"method\", \"post\");\n\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'infnstCd', value: infnstCd}));\n\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'insacdFnstRegSn', value: insacdFnstRegSn}));\n\t\t$(\"#srchForm\").attr(\"action\",  '/sp/dpstrprot/selectGiveTrgtFnstSrchList.do');\n\t\t$(\"#srchForm\").submit();\n\t}",
+    "function chgPagingNo(pageNo) {\n\t\t\tif($(\"#srchForm\").find(\"input[name='curPage']\").length > 0){\n\t\t\t\t$(\"#srchForm input[name='curPage']\").val(pageNo);\n\t\t\t} else {\n\t\t\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'curPage', value: pageNo}));\n\t\t\t}\n\n\t\t\tif($(\"#srchForm\").find(\"input[name='pageSize']\").length > 0){\n\t\t\t\t$(\"#srchForm input[name='pageSize']\").val('10');\n\t\t\t} else {\n\t\t\t\t$(\"#srchForm\").append($('<input/>', {type: 'hidden', name: 'pageSize', value: '10'}));\n\t\t\t}\n\n\t\t\tdoSrchForm();\n\t\t}"
+  ],
+  "diagnosed_at": "2026-07-13T16:10:22+09:00",
+  "safety_note": "초기 공개 페이지 구조만 진단했습니다. 검색 폼 제출·로그인·본인인증·신청 실행은 수행하지 않았습니다.",
+  "url_id": "BI-004",
+  "page_title": "예금보험금 안내 > 보험금 지급대상 금융회사",
+  "business_function": "예금보험금 안내",
+  "source_url": "https://www.kdic.or.kr/sp/dpstrprot/selectProtSystBamtGiveTrgtFnst.do"
+}

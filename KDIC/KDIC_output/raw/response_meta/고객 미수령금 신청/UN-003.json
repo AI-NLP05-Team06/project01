@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://fins.kdic.or.kr/ua/aplygudn/NramtItgrAplyItrdMthdGudn/selectScrn.do",
+  "final_url": "https://fins.kdic.or.kr/ua/aplygudn/NramtItgrAplyItrdMthdGudn/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 0.813,
+  "collected_at": "2026-07-13T16:10:29+09:00",
+  "content_length": 194923,
+  "raw_sha256": "e73e78d955771d63a2345243df233afb3965e884b45ccd2f3aa1b8b6ccb03ee6",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "UN-003",
+  "business_function": "고객 미수령금 신청",
+  "page_title_manifest": "미수령금통합신청 > 소개와 신청방법 안내 > 안내",
+  "fetch_strategy": "requests_html",
+  "parser_profile": "fins_static_v1",
+  "raw_html_path": "raw/html/고객 미수령금 신청/UN-003.html"
+}

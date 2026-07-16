@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+  "final_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 1.215,
+  "collected_at": "2026-07-13T16:10:34+09:00",
+  "content_length": 492138,
+  "raw_sha256": "5014b6128da7c22916dd80378559b12d78834939f58f241b5841f8f4c4f78c50",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "MT-001",
+  "business_function": "착오송금 반환 신청",
+  "page_title_manifest": "착오송금 반환지원제도 > 착오송금반환지원 제도란",
+  "fetch_strategy": "requests_html_assets",
+  "parser_profile": "kdic_static_v1",
+  "raw_html_path": "raw/html/착오송금 반환 신청/MT-001.html"
+}

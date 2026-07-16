@@ -1,0 +1,130 @@
+{
+  "doc_id": "MT-001",
+  "parent_doc_id": "MT-001",
+  "title": "제도·정책 착오송금 반환지원제도 착오송금반환지원 제도란",
+  "manifest_title": "착오송금 반환지원제도 > 착오송금반환지원 제도란",
+  "source_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+  "final_url": "https://www.kdic.or.kr/sp/kmrs/kmrsItrd/selectScrn.do",
+  "site_name": "예금보험공사",
+  "business_function": "착오송금 반환 신청",
+  "target_business_function": "착오송금 반환 신청",
+  "page_type": "video_page",
+  "parser_profile": "kdic_static_v1",
+  "breadcrumb": [
+    "홈",
+    "제도·정책 제도·정책 예금보험공사 금융회사종합정보 KDIC 연구분석 통합검색 예금보호금액 모의계산기 공통",
+    "제도·정책",
+    "예금보험공사",
+    "금융회사종합정보",
+    "KDIC 연구분석",
+    "통합검색",
+    "예금보호금액 모의계산기",
+    "공통",
+    "착오송금 반환지원제도 예금자보호제도 예금보험료안내 지원자금관리 착오송금 반환지원제도 채무조정 재기지원",
+    "착오송금 반환지원제도",
+    "예금자보호제도",
+    "예금보험료안내",
+    "지원자금관리",
+    "채무조정 재기지원",
+    "착오송금반환지원 제도란 착오송금반환지원 제도란 착오송금반환지원 절차 착오송금반환지원 신청대상 착오송금반환지원 신청방법 착오송금반환지원 지원현황",
+    "착오송금반환지원 제도란",
+    "착오송금반환지원 절차",
+    "착오송금반환지원 신청대상",
+    "착오송금반환지원 신청방법",
+    "착오송금반환지원 지원현황"
+  ],
+  "content_markdown": "### 제도 소개 안내영상\n\n제도 소개 안내영상입니다.\n\n### 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.\n\n글자확대 글자축소\n\n- KOR\n\n- ENG",
+  "content_text": "제도 소개 안내영상 영상내용입니다. 제도 소개 안내영상입니다. 잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다. 글자 크기 글자확대 글자축소 KOR KOR ENG 창립 30주년 예금보험공사 디지털역사관 바로가기 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
+  "parsed_content_sha256": "f67707b8a149fba9369648307ca88c0e051531fe922109074d12d4b3f8f78b19",
+  "blocks": [
+    {
+      "block_index": 1,
+      "block_type": "heading",
+      "text": "제도 소개 안내영상",
+      "heading_level": 3
+    },
+    {
+      "block_index": 2,
+      "block_type": "paragraph",
+      "text": "제도 소개 안내영상입니다.",
+      "heading_level": null
+    },
+    {
+      "block_index": 3,
+      "block_type": "heading",
+      "text": "잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다.",
+      "heading_level": 3
+    },
+    {
+      "block_index": 4,
+      "block_type": "paragraph",
+      "text": "글자확대 글자축소",
+      "heading_level": null
+    },
+    {
+      "block_index": 5,
+      "block_type": "list_item",
+      "text": "KOR",
+      "heading_level": null
+    },
+    {
+      "block_index": 6,
+      "block_type": "list_item",
+      "text": "ENG",
+      "heading_level": null
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.kdic.or.kr/en/main.do",
+      "anchor_text": "ENG",
+      "asset_type": "link",
+      "context": "ENG 개인정보처리방침"
+    },
+    {
+      "url": "http://www.kdic30th.kr",
+      "anchor_text": "창립 30주년 예금보험공사 디지털역사관 바로가기",
+      "asset_type": "link",
+      "context": "ENG 창립 30주년 예금보험공사 디지털역사관 바로가기 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동 개인정보처리방침"
+    }
+  ],
+  "attachments": [],
+  "images": [
+    {
+      "url": "https://www.kdic.or.kr/assets/images/img-SP-DA0-000.png",
+      "alt": "송금 후 아차 싶은 순간, 기억하세요 예금보험공사",
+      "title": "",
+      "caption": "",
+      "context": "잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다. 글자확대 글자축소"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.kdic.or.kr/assets/images/ci.mp4",
+      "tag": "video",
+      "title": "",
+      "context": "제도 소개 안내영상 제도 소개 안내영상입니다."
+    }
+  ],
+  "parsed_at": "2026-07-13T16:10:34+09:00",
+  "downloaded_assets": {
+    "attachments": [],
+    "images": [
+      {
+        "source_url": "https://www.kdic.or.kr/assets/images/img-SP-DA0-000.png",
+        "final_url": "https://www.kdic.or.kr/assets/images/img-SP-DA0-000.png",
+        "filename": "img-SP-DA0-000.png",
+        "relative_path": "raw/assets/착오송금 반환 신청/MT-001/images/img-SP-DA0-000.png",
+        "content_type": "image/png",
+        "size_bytes": 68300,
+        "sha256": "65bb0b360f463e336f7c5296d88219469431d2a3b2a5c954667c5440176f0f5e",
+        "downloaded_at": "2026-07-13T16:10:35+09:00",
+        "alt": "송금 후 아차 싶은 순간, 기억하세요 예금보험공사",
+        "caption": "",
+        "context": "잘못 보낸 돈 되찾기 서비스란 착오송금인이 실수로 잘못 보낸 돈을 최소한의 비용으로 빠르게 되찾을 수 있도록 도와드리는 제도입니다. 글자확대 글자축소"
+      }
+    ],
+    "videos": [],
+    "failures": []
+  }
+}

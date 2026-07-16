@@ -1,0 +1,15 @@
+{
+  "doc_id": "DA-007",
+  "record_type": "link_only",
+  "title": "지원자금관리 > 부채증명원/금융거래정보신청",
+  "source_url": "https://www.kdic.or.kr/sp/sprtfund/SprtFndDebtDlngAplyGudn/selectScrn.do",
+  "site_name": "예금보험공사",
+  "business_function": "채무조정 안내",
+  "target_business_function": "채무조정 안내",
+  "page_type": "application_service",
+  "auth_required": "no",
+  "content_scope": "service_description_only",
+  "description": "파산금융회사 채무자의 부채증명원·금융거래정보 발급 신청",
+  "decision_reason": "증명서 발급 절차와 공식 신청 경로를 안내하는 메타데이터만 저장",
+  "created_at": "2026-07-13T16:11:08+09:00"
+}

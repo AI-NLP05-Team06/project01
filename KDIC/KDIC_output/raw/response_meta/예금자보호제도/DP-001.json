@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://www.kdic.or.kr/sp/dpstrprot/ProtSystProtLmts/selectScrn.do",
+  "final_url": "https://www.kdic.or.kr/sp/dpstrprot/ProtSystProtLmts/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 1.045,
+  "collected_at": "2026-07-13T16:09:57+09:00",
+  "content_length": 495303,
+  "raw_sha256": "395214e27d21c1b901f08096a16e9a0d7f2e19e9a31a23969da2b96d586b84e5",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "DP-001",
+  "business_function": "예금자보호제도",
+  "page_title_manifest": "보호한도",
+  "fetch_strategy": "requests_html",
+  "parser_profile": "kdic_static_v1",
+  "raw_html_path": "raw/html/예금자보호제도/DP-001.html"
+}

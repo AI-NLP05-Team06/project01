@@ -1,0 +1,215 @@
+{
+  "doc_id": "MT-012",
+  "parent_doc_id": "MT-012",
+  "title": "퀵메뉴",
+  "manifest_title": "착오송금반환지원 > 소개와 방법안내 > 방문접수안내",
+  "source_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
+  "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsVstRcptGudn/selectScrn.do",
+  "site_name": "금융안심포털",
+  "business_function": "착오송금 반환 신청",
+  "target_business_function": "착오송금 반환 신청",
+  "page_type": "static_page",
+  "parser_profile": "fins_static_v1",
+  "breadcrumb": [
+    "홈",
+    "착오송금반환지원 미수령금통합신청 착오송금반환지원 경력증명서신청 채무정보조회 부채증명원신청 고객센터 MY 금융안심포털 통합검색 모바일",
+    "착오송금반환지원",
+    "미수령금통합신청",
+    "경력증명서신청",
+    "채무정보조회",
+    "부채증명원신청",
+    "고객센터",
+    "MY 금융안심포털",
+    "통합검색",
+    "모바일",
+    "착오송금반환지원 소개와 방법 안내 착오송금반환지원 소개와 방법 안내 착오송금인 착오송금수취인",
+    "착오송금반환지원 소개와 방법 안내",
+    "착오송금인",
+    "착오송금수취인",
+    "방문접수안내 반환지원절차 관련법령 및 규정 구비서류안내 방문접수안내 상황선택",
+    "방문접수안내",
+    "반환지원절차",
+    "관련법령 및 규정",
+    "구비서류안내",
+    "상황선택"
+  ],
+  "content_markdown": "### 방문접수 절차\n\n방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00\n\n- STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내\n\n- STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP 신청서 다운로드 PDF 신청서 다운로드\n\n- STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다.\n\n- STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기\n\n- STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다.\n\n### 센터 안내\n\n예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33)\n\n지하철 이용 시\n\n- 1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리\n\n- 2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리\n\n- 5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리\n\n버스이용시\n\n- 광화문(역)에서 하차 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720 광역버스 : 9709 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710\n\n- 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720\n\n- 광역버스 : 9709\n\n- 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710\n\n## 퀵메뉴\n\n글자확대 글자축소",
+  "content_text": "방문접수 절차 방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00 STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내 STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP 신청서 다운로드 PDF 신청서 다운로드 STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다. STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기 STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다. 센터 안내 예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33) 지하철 이용 시 1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리 2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리 5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리 버스이용시 광화문(역)에서 하차 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720 광역버스 : 9709 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710 반환지원절차 확인 신청하기 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
+  "parsed_content_sha256": "e0a4c40a97d34f9f21549c1647c7843877e8ab0ae229f98782c49c5fa48695a6",
+  "blocks": [
+    {
+      "block_index": 1,
+      "block_type": "heading",
+      "text": "방문접수 절차",
+      "heading_level": 3
+    },
+    {
+      "block_index": 2,
+      "block_type": "paragraph",
+      "text": "방문접수는 평일 09:00 ~ 17:00까지 운영됩니다. 점심시간 12:00 ~ 13:00",
+      "heading_level": null
+    },
+    {
+      "block_index": 3,
+      "block_type": "list_item",
+      "text": "STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내",
+      "heading_level": null
+    },
+    {
+      "block_index": 4,
+      "block_type": "list_item",
+      "text": "STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP 신청서 다운로드 PDF 신청서 다운로드",
+      "heading_level": null
+    },
+    {
+      "block_index": 5,
+      "block_type": "list_item",
+      "text": "STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다.",
+      "heading_level": null
+    },
+    {
+      "block_index": 6,
+      "block_type": "list_item",
+      "text": "STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기",
+      "heading_level": null
+    },
+    {
+      "block_index": 7,
+      "block_type": "list_item",
+      "text": "STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다.",
+      "heading_level": null
+    },
+    {
+      "block_index": 8,
+      "block_type": "heading",
+      "text": "센터 안내",
+      "heading_level": 3
+    },
+    {
+      "block_index": 9,
+      "block_type": "paragraph",
+      "text": "예금보험공사 본사(지하1층 고객센터) 서울시 중구 청계천로 30 (지번주소: 서울특별시 중구 다동 33)",
+      "heading_level": null
+    },
+    {
+      "block_index": 10,
+      "block_type": "paragraph",
+      "text": "지하철 이용 시",
+      "heading_level": null
+    },
+    {
+      "block_index": 11,
+      "block_type": "list_item",
+      "text": "1호선 : 종각역 5번출구 영풍문고 길건너 도보 5분 거리",
+      "heading_level": null
+    },
+    {
+      "block_index": 12,
+      "block_type": "list_item",
+      "text": "2호선 : 을지로입구역 2번출구 청계천 방향 도보 5분 거리",
+      "heading_level": null
+    },
+    {
+      "block_index": 13,
+      "block_type": "list_item",
+      "text": "5호선 : 광화문역 5번출구 동아일보방면 도보 7분 거리",
+      "heading_level": null
+    },
+    {
+      "block_index": 14,
+      "block_type": "paragraph",
+      "text": "버스이용시",
+      "heading_level": null
+    },
+    {
+      "block_index": 15,
+      "block_type": "list_item",
+      "text": "광화문(역)에서 하차 간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720 광역버스 : 9709 경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710",
+      "heading_level": null
+    },
+    {
+      "block_index": 16,
+      "block_type": "list_item",
+      "text": "간선버스 : 101, 160, 260, 270, 273, 370, 470, 471, 704, 710, 720",
+      "heading_level": null
+    },
+    {
+      "block_index": 17,
+      "block_type": "list_item",
+      "text": "광역버스 : 9709",
+      "heading_level": null
+    },
+    {
+      "block_index": 18,
+      "block_type": "list_item",
+      "text": "경기버스 : (일반)99, 1002, / (급행)8600, 8611 / (직행)9710",
+      "heading_level": null
+    },
+    {
+      "block_index": 19,
+      "block_type": "heading",
+      "text": "퀵메뉴",
+      "heading_level": 2
+    },
+    {
+      "block_index": 20,
+      "block_type": "paragraph",
+      "text": "글자확대 글자축소",
+      "heading_level": null
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.kdic.or.kr/sp/main.do",
+      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지",
+      "asset_type": "link",
+      "context": "글자확대 글자축소 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 금융안심포털"
+    }
+  ],
+  "attachments": [],
+  "images": [
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/img-irAoo000M1-step01.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "STEP 01 센터방문 구비서류와 신분증 지참하여 가까운 센터로 방문해 주세요. 구비서류 안내 센터방문"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/img-irAoo000M1-step02.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "STEP2 신청서 제출 신청서 작성 후 구비서류와 함께 제출해 주세요. HWP 신청서 다운로드 PDF 신청서 다운로드 신청서 제출"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/img-irAoo000M1-step03.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "STEP3 신청서 접수 착오송금반환지원을 신청하시면 접수증을 발급 받으실수 있습니다. 신청서 접수"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/img-irAoo000M1-step04.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "STEP4 반환지원대상 심사 및 채권매입 심사 담당자가 신청 내용을 확인하고 반환지원 대상 여부를 심사합니다. 심사결과(제도 이용 대상, 비대상)는 SMS로 안내해드립니다. 신청대상여부 확인하기 반환지원대상 심사 및 채권매입"
+    },
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/img-irAoo000M1-step05.png",
+      "alt": "",
+      "title": "",
+      "caption": "",
+      "context": "STEP5 반환지원 절차진행 제도 이용 대상인 경우 반환지원 절차가 진행됩니다. 반환지원 절차진행"
+    }
+  ],
+  "videos": [],
+  "parsed_at": "2026-07-13T16:11:02+09:00",
+  "downloaded_assets": {
+    "attachments": [],
+    "images": [],
+    "videos": [],
+    "failures": []
+  }
+}

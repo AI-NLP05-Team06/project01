@@ -1,0 +1,142 @@
+{
+  "doc_id": "UN-002",
+  "parent_doc_id": "UN-002",
+  "title": "퀵메뉴",
+  "manifest_title": "미수령금통합신청 > 소개와 신청방법 안내 > 예금자 대상 전화문의 안내",
+  "source_url": "https://fins.kdic.or.kr/ua/aplygudn/DpstrTrgtTelQustGudn/selectScrn.do",
+  "final_url": "https://fins.kdic.or.kr/ua/aplygudn/DpstrTrgtTelQustGudn/selectScrn.do",
+  "site_name": "금융안심포털",
+  "business_function": "고객 미수령금 신청",
+  "target_business_function": "고객 미수령금 신청",
+  "page_type": "static_page",
+  "parser_profile": "fins_static_v1",
+  "breadcrumb": [
+    "홈",
+    "미수령금통합신청 미수령금통합신청 착오송금반환지원 경력증명서신청 채무정보조회 부채증명원신청 고객센터 MY 금융안심포털 통합검색 모바일",
+    "미수령금통합신청",
+    "착오송금반환지원",
+    "경력증명서신청",
+    "채무정보조회",
+    "부채증명원신청",
+    "고객센터",
+    "MY 금융안심포털",
+    "통합검색",
+    "모바일",
+    "통합신청 소개와 신청 방법 안내 통합신청 소개와 신청 방법 안내 통합신청 진행·지급내역조회",
+    "통합신청 소개와 신청 방법 안내",
+    "통합신청",
+    "진행·지급내역조회",
+    "예금자 대상 전화문의 안내 안내 예금자 대상 전화문의 안내",
+    "예금자 대상 전화문의 안내",
+    "안내"
+  ],
+  "content_markdown": "### 예금자 대상 전화문의 안내\n\n#### 안내\n\n개명 등으로 인해 변경된 명의(성명)로 미수령금을 신청하시는 경우 지급이 불가하오니, 이러한 경우 추가안내를 위해 02-1588-0037 로 문의해주시기 바랍니다.\n\n(서비스 번호 3번 또는 미수령금 담당자 전화연결 요청)\n\n- 고객 문의 02-1588-0037\n\n- 예금보험공사 IT서비스 데스크 02-758-1117\n\n- 09:00 ~ 18:00 (공휴일, 토/일요일 휴무)\n\n궁금한 사항이 있으시면 02-1588-0037 로 문의해 주세요.\n\n* ARS 연결 후 예금보험금, 파산배당금, 정산금 수령 등 문의는 3번을 누르세요. (예금명의자 본인이 아닌 경우 안내에 제한이 있습니다)\n\n공사는 채권신고, 자산매각, 배당 및 종결 등 파산절차를 진행 함에 있어 파산채권자의 의견을 듣고, 적극 반영하고자 노력하고 있습니다. 궁금한 사항 또는 건의하실 말씀이 있으신 경우 예금보험공사 홈페이지 ‘고객의소리(https://www.kdic.or.kr/voc/)’ 또는 웹메일(pasan@kdic.or.kr)로 언제든지 연락주시기 바랍니다. 예금보험공사는 예금자 여러분의 불편을 덜어 드리기 위해 더욱 노력하겠습니다.\n\n## 퀵메뉴\n\n글자확대 글자축소",
+  "content_text": "예금자 대상 전화문의 안내 안내 개명 등으로 인해 변경된 명의(성명)로 미수령금을 신청하시는 경우 지급이 불가하오니, 이러한 경우 추가안내를 위해 02-1588-0037 로 문의해주시기 바랍니다. (서비스 번호 3번 또는 미수령금 담당자 전화연결 요청) 고객 문의 02-1588-0037 예금보험공사 IT서비스 데스크 02-758-1117 09:00 ~ 18:00 (공휴일, 토/일요일 휴무) 궁금한 사항이 있으시면 02-1588-0037 로 문의해 주세요. * ARS 연결 후 예금보험금, 파산배당금, 정산금 수령 등 문의는 3번을 누르세요. (예금명의자 본인이 아닌 경우 안내에 제한이 있습니다) 공사는 채권신고, 자산매각, 배당 및 종결 등 파산절차를 진행 함에 있어 파산채권자의 의견을 듣고, 적극 반영하고자 노력하고 있습니다. 궁금한 사항 또는 건의하실 말씀이 있으신 경우 예금보험공사 홈페이지 ‘고객의소리(https://www.kdic.or.kr/voc/)’ 또는 웹메일(pasan@kdic.or.kr)로 언제든지 연락주시기 바랍니다. 예금보험공사는 예금자 여러분의 불편을 덜어 드리기 위해 더욱 노력하겠습니다. 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 똑똑한 예보챗봇비서 예솜이 에게 물어보세요 상단으로 이동",
+  "parsed_content_sha256": "e59cffcf42b0f9fe798ea2a175b09e18399dc6c1e2bb72dad7c68c142bd48380",
+  "blocks": [
+    {
+      "block_index": 1,
+      "block_type": "heading",
+      "text": "예금자 대상 전화문의 안내",
+      "heading_level": 3
+    },
+    {
+      "block_index": 2,
+      "block_type": "heading",
+      "text": "안내",
+      "heading_level": 4
+    },
+    {
+      "block_index": 3,
+      "block_type": "paragraph",
+      "text": "개명 등으로 인해 변경된 명의(성명)로 미수령금을 신청하시는 경우 지급이 불가하오니, 이러한 경우 추가안내를 위해 02-1588-0037 로 문의해주시기 바랍니다.",
+      "heading_level": null
+    },
+    {
+      "block_index": 4,
+      "block_type": "paragraph",
+      "text": "(서비스 번호 3번 또는 미수령금 담당자 전화연결 요청)",
+      "heading_level": null
+    },
+    {
+      "block_index": 5,
+      "block_type": "list_item",
+      "text": "고객 문의 02-1588-0037",
+      "heading_level": null
+    },
+    {
+      "block_index": 6,
+      "block_type": "list_item",
+      "text": "예금보험공사 IT서비스 데스크 02-758-1117",
+      "heading_level": null
+    },
+    {
+      "block_index": 7,
+      "block_type": "list_item",
+      "text": "09:00 ~ 18:00 (공휴일, 토/일요일 휴무)",
+      "heading_level": null
+    },
+    {
+      "block_index": 8,
+      "block_type": "paragraph",
+      "text": "궁금한 사항이 있으시면 02-1588-0037 로 문의해 주세요.",
+      "heading_level": null
+    },
+    {
+      "block_index": 9,
+      "block_type": "paragraph",
+      "text": "* ARS 연결 후 예금보험금, 파산배당금, 정산금 수령 등 문의는 3번을 누르세요. (예금명의자 본인이 아닌 경우 안내에 제한이 있습니다)",
+      "heading_level": null
+    },
+    {
+      "block_index": 10,
+      "block_type": "paragraph",
+      "text": "공사는 채권신고, 자산매각, 배당 및 종결 등 파산절차를 진행 함에 있어 파산채권자의 의견을 듣고, 적극 반영하고자 노력하고 있습니다. 궁금한 사항 또는 건의하실 말씀이 있으신 경우 예금보험공사 홈페이지 ‘고객의소리(https://www.kdic.or.kr/voc/)’ 또는 웹메일(pasan@kdic.or.kr)로 언제든지 연락주시기 바랍니다. 예금보험공사는 예금자 여러분의 불편을 덜어 드리기 위해 더욱 노력하겠습니다.",
+      "heading_level": null
+    },
+    {
+      "block_index": 11,
+      "block_type": "heading",
+      "text": "퀵메뉴",
+      "heading_level": 2
+    },
+    {
+      "block_index": 12,
+      "block_type": "paragraph",
+      "text": "글자확대 글자축소",
+      "heading_level": null
+    }
+  ],
+  "links": [
+    {
+      "url": "https://www.kdic.or.kr/voc/",
+      "anchor_text": "‘고객의소리(https://www.kdic.or.kr/voc/)’",
+      "asset_type": "link",
+      "context": "공사는 채권신고, 자산매각, 배당 및 종결 등 파산절차를 진행 함에 있어 파산채권자의 의견을 듣고, 적극 반영하고자 노력하고 있습니다. 궁금한 사항 또는 건의하실 말씀이 있으신 경우 예금보험공사 홈페이지 ‘고객의소리(https://www.kdic.or.kr/voc/)’ 또는 웹메일(pasan@kdic.or.kr)로 언제든지 연락주시기 바랍니다. 예금보험공사는 예금자 여러분의 불편을 덜어 드리기 위해 더욱 노력하겠습니다."
+    },
+    {
+      "url": "https://www.kdic.or.kr/sp/main.do",
+      "anchor_text": "KDIC(예금보험공사) 공식 홈페이지",
+      "asset_type": "link",
+      "context": "글자확대 글자축소 퀵메뉴 글자 크기 글자확대 글자축소 KDIC(예금보험공사) 공식 홈페이지 KDIC(예금보험공사) 금융안심포털 앱 설치 QR 코드 금융안심포털"
+    }
+  ],
+  "attachments": [],
+  "images": [
+    {
+      "url": "https://fins.kdic.or.kr/assets/images/common/common-logo.png",
+      "alt": "예금보험공사",
+      "title": "",
+      "caption": "",
+      "context": "글자확대 글자축소"
+    }
+  ],
+  "videos": [],
+  "parsed_at": "2026-07-13T16:10:27+09:00",
+  "downloaded_assets": {
+    "attachments": [],
+    "images": [],
+    "videos": [],
+    "failures": []
+  }
+}

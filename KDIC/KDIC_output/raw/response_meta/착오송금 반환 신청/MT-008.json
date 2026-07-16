@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrprPossDcmntGudn/selectScrn.do",
+  "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MsdrprPossDcmntGudn/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 0.987,
+  "collected_at": "2026-07-13T16:10:49+09:00",
+  "content_length": 272309,
+  "raw_sha256": "d42cc649301afebc8bc482c0476e92becaf6d8489186a66e448bb2b886bcefa7",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "MT-008",
+  "business_function": "착오송금 반환 신청",
+  "page_title_manifest": "착오송금반환지원 > 소개와 방법안내 > 구비서류안내 > 착오송금인",
+  "fetch_strategy": "requests_html_attachments",
+  "parser_profile": "fins_attachment_v1",
+  "raw_html_path": "raw/html/착오송금 반환 신청/MT-008.html"
+}

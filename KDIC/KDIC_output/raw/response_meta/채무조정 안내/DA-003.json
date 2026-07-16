@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://www.kdic.or.kr/di/relsite/PbcrKrncLblarb/selectScrn.do",
+  "final_url": "https://www.kdic.or.kr/di/relsite/PbcrKrncLblarb/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 1.131,
+  "collected_at": "2026-07-13T16:11:07+09:00",
+  "content_length": 502425,
+  "raw_sha256": "57b39a549a12cd2d5d90ebab90478bfacb8ece31ec51eb3527ede530c0d5b867",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "DA-003",
+  "business_function": "채무조정 안내",
+  "page_title_manifest": "채무조정",
+  "fetch_strategy": "requests_html",
+  "parser_profile": "kdic_static_v1",
+  "raw_html_path": "raw/html/채무조정 안내/DA-003.html"
+}

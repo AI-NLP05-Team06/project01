@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do",
+  "final_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 0.909,
+  "collected_at": "2026-07-13T16:10:42+09:00",
+  "content_length": 204723,
+  "raw_sha256": "2bcf669c45bdba34f5d0a6577880b26d81f7b0c2f7c0b870bb76e6004f243c4a",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "MT-005",
+  "business_function": "착오송금 반환 신청",
+  "page_title_manifest": "고객센터 > FAQ > TOP 10",
+  "fetch_strategy": "requests_html",
+  "parser_profile": "fins_faq_v1",
+  "raw_html_path": "raw/html/착오송금 반환 신청/MT-005.html"
+}

@@ -1,0 +1,23 @@
+{
+  "requested_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
+  "final_url": "https://fins.kdic.or.kr/ir/aplygudn/MtrsRelLawoRgul/selectScrn.do",
+  "status_code": 200,
+  "ok": true,
+  "content_type": "text/html; charset=UTF-8",
+  "encoding": "UTF-8",
+  "elapsed_seconds": 0.813,
+  "collected_at": "2026-07-13T16:10:57+09:00",
+  "content_length": 241897,
+  "raw_sha256": "85c6d4f6cc78a74f642150e6372c559b6b369975c3b6cd81228bcfc57864942a",
+  "redirect_history": [],
+  "selected_headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Robots-Check": "allowed"
+  },
+  "url_id": "MT-010",
+  "business_function": "착오송금 반환 신청",
+  "page_title_manifest": "착오송금반환지원 > 소개와 방법안내 > 관련법령 및 규정",
+  "fetch_strategy": "requests_html_links",
+  "parser_profile": "fins_legal_index_v1",
+  "raw_html_path": "raw/html/착오송금 반환 신청/MT-010.html"
+}
