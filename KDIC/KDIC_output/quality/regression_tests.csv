@@ -10,7 +10,7 @@ DP-003 FAQ 청크 무손실,True,
 DP-003 청크 본문 보존율,True,1.0
 DP-004 인덱싱 문서 청크 존재,True,
 DP-004 FAQ 청크 무손실,True,
-DP-004 청크 본문 보존율,True,1.0
+DP-004 청크 본문 보존율,True,0.9956
 DP-005 인덱싱 문서 청크 존재,True,
 DP-005 FAQ 청크 무손실,True,
 DP-005 청크 본문 보존율,True,1.0
@@ -67,7 +67,7 @@ MT-007 FAQ 청크 무손실,True,
 MT-007 청크 본문 보존율,True,1.0
 MT-008 인덱싱 문서 청크 존재,True,
 MT-008 FAQ 청크 무손실,True,
-MT-008 청크 본문 보존율,True,1.0
+MT-008 청크 본문 보존율,True,0.9948
 MT-009 인덱싱 문서 청크 존재,True,
 MT-009 FAQ 청크 무손실,True,
 MT-009 청크 본문 보존율,True,1.0
@@ -103,7 +103,7 @@ DA-005 FAQ 청크 무손실,True,
 DA-005 청크 본문 보존율,True,1.0
 DA-006 인덱싱 문서 청크 존재,True,
 DA-006 FAQ 청크 무손실,True,
-DA-006 청크 본문 보존율,True,1.0
+DA-006 청크 본문 보존율,False,0.9175
 DA-007 인덱싱 문서 청크 존재,True,
 DA-007 FAQ 청크 무손실,True,
 DA-007 청크 본문 보존율,True,1.0
@@ -121,7 +121,7 @@ HP-003 FAQ 청크 무손실,True,
 HP-003 청크 본문 보존율,True,1.0
 MT-010_rule_layer01 인덱싱 문서 청크 존재,True,
 MT-010_rule_layer01 FAQ 청크 무손실,True,
-MT-010_rule_layer01 청크 본문 보존율,True,1.0
+MT-010_rule_layer01 청크 본문 보존율,True,0.9974
 MT-010_operation_layer01 인덱싱 문서 청크 존재,True,
 MT-010_operation_layer01 FAQ 청크 무손실,True,
 MT-010_operation_layer01 청크 본문 보존율,True,1.0

@@ -1,0 +1,60 @@
+{
+  "question": "착오송금 반환지원은 언제까지 신청할 수 있나요?",
+  "chat_model": "HCX-005",
+  "embedding_model": "bge-m3",
+  "top_k": 5,
+  "retrieved": [
+    {
+      "rank": 1,
+      "score": 0.81748,
+      "document_id": "MT-004",
+      "chunk_id": "MT-004_chunk_011",
+      "business_function": "착오송금 반환 신청",
+      "chunk_type": "faq",
+      "source_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqMsdrGvbkAply.do",
+      "preview": "### Q. 착오송금 발생 이후 언제까지 신청을 해야 하나요?\n\n착오송금일로부터 1년 이내(착오송금일은 불산입) 신청하는 경우, 반환지원이 가능합니다."
+    },
+    {
+      "rank": 2,
+      "score": 0.817159,
+      "document_id": "MT-005",
+      "chunk_id": "MT-005_chunk_007",
+      "business_function": "착오송금 반환 신청",
+      "chunk_type": "faq",
+      "source_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do",
+      "preview": "### Q. 8. 착오송금 발생 이후 언제까지 신청을 해야 하나요?\n\n착오송금일로부터 1년 이내(착오송금일은 불산입) 신청하는 경우, 반환지원이 가능합니다."
+    },
+    {
+      "rank": 3,
+      "score": 0.789423,
+      "document_id": "MT-005",
+      "chunk_id": "MT-005_chunk_000",
+      "business_function": "착오송금 반환 신청",
+      "chunk_type": "faq",
+      "source_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do",
+      "preview": "### Q. 1. 착오송금 반환지원 신청 접수부터 실제 반환까지 예상되는 소요 기간은 어떻게 되나요?\n\n자진반환 및 지급명령을 통해 회수 가능한 경우 신청 접수일로부터 2개월 내외로 착오송금액 반환이 가능할 것으로 예상됩니다."
+    },
+    {
+      "rank": 4,
+      "score": 0.788623,
+      "document_id": "MT-004",
+      "chunk_id": "MT-004_chunk_005",
+      "business_function": "착오송금 반환 신청",
+      "chunk_type": "faq",
+      "source_url": "https://fins.kdic.or.kr/cm/bbs/selectFaqMsdrGvbkAply.do",
+      "preview": "### Q. 착오송금 반환지원 신청 접수부터 실제 반환까지 예상되는 소요 기간은 어떻게 되나요?\n\n자진반환 및 지급명령을 통해 회수 가능한 경우 신청 접수일로부터 2개월 내외로 착오송금액 반환이 가능할 것으로 예상됩니다."
+    },
+    {
+      "rank": 5,
+      "score": 0.788578,
+      "document_id": "MT-013",
+      "chunk_id": "MT-013_chunk_000",
+      "business_function": "착오송금 반환 신청",
+      "chunk_type": "section",
+      "source_url": "https://fins.kdic.or.kr/ir/msdrpr/MsdrprAttnMttr/selectScrn.do",
+      "preview": "### 착오송금반환지원 신청 대상\n\n- 건당 5만원 이상 1억원 이하 착오송금이 지원대상.\n- 착오송금일로부터 1년 이내에 착오송금반환지원 신청 가능\n- 자금이체 금융회사등* 을 통해 반환신청을 하였으나 반환이 안된 경우 제도 이용 가능\n\n*은행(외은지점, 농협은행, 수협은행, 산업은행, 중소기업은행 포함), 투자매매·중"
+    }
+  ],
+  "answer": "착오송금 반환지원은 착오송금일로부터 **1년 이내**에 신청해야 합니다. (단, 착오송금 당일은 제외)\n\n- 출처: [https://fins.kdic.or.kr/cm/bbs/selectFaqMsdrGvbkAply.do](https://fins.kdic.or.kr/cm/bbs/selectFaqMsdrGvbkAply.do), [https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do](https://fins.kdic.or.kr/cm/bbs/selectFaqTop10.do)",
+  "generated_at": "2026-07-16T12:05:14.159133+00:00"
+}

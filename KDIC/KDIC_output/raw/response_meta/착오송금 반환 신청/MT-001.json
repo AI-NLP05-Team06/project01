@@ -5,10 +5,10 @@
   "ok": true,
   "content_type": "text/html; charset=UTF-8",
   "encoding": "UTF-8",
-  "elapsed_seconds": 3.115,
-  "collected_at": "2026-07-16T15:06:04+09:00",
+  "elapsed_seconds": 2.04,
+  "collected_at": "2026-07-16T20:58:21+09:00",
   "content_length": 492424,
-  "raw_sha256": "6f8cc6188b0e0937d79d2663711d99d4f540de67f25e15de742eede90d0f9b0b",
+  "raw_sha256": "5c914546ea246d16c8e203b5fde9c80f7fec06e5fe18775e46ac883f821324f4",
   "redirect_history": [],
   "selected_headers": {
     "Content-Type": "text/html; charset=UTF-8",

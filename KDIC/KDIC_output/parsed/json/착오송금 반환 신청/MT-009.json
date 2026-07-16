@@ -99,7 +99,7 @@
     "image_policy": "metadata_only_nondecorative",
     "modal_content_policy": "none"
   },
-  "parsed_at": "2026-07-16T15:06:44+09:00",
+  "parsed_at": "2026-07-16T20:58:52+09:00",
   "excluded_content": [
     {
       "reason": "웹툰 참고 링크 전용 정책",
@@ -131,6 +131,10 @@
     "supplementary_link_count": 1,
     "noise_hits": []
   },
+  "chunk_strategy": "auto_structure",
+  "table_group_key": "",
+  "table_entity_column": "",
+  "heading_context_policy": "inherit",
   "pagination_collection": {
     "collection_scope": "single_public_page",
     "is_complete": true,
